@@ -4,40 +4,56 @@ concurrency: camply
 
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 jobs:
-  install_package:
+  camply:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v2
 
+      - name: Checkout results
+        uses: actions/checkout@v2
+        with:
+          ref: results
+          path: results
+
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
           python-version: '3.x' # Replace with the desired Python version
 
-      - name: Install Camply
+      - name: Cache pip packages
+        uses: actions/cache@v2
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Install deps
         run: |
-          pip install camply
+          pip install -r requirements.txt
+          pip freeze -r requirements.txt
 
       - name: Setup env
         run: |
-          printf "${{ secrets.DOT_CAMPLY }}" > ~/.camply
-
-      - name: Cache Camply Data
-        uses: actions/cache@v2
-        with:
-          path: camply_campsites.json
-          key: camply_campsites.json
+          echo "${{ secrets.DOT_CAMPLY }}" > ~/.camply
 
       - name: Run Camply
-        run: |
-          ./.github/search.sh
+        run: ./.github/search.sh
+
+      - name: Get logs
+        run: cat logs/*.log || true
 
       - name: Commit results
+        working-directory: results
         run: |
-          git commit -am "Update"
+          git config --global user.email "you@example.com"
+          git config --global user.name "github-actions"
+          git add .
+          git commit -am "Update" || true
+          git push || true

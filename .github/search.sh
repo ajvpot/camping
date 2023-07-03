@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -x
 
-mkdir -p results
+mkdir -p results logs
 
 # Iterate over each .yml file in the searches directory
 for config_file in searches/*.yml; do
@@ -11,8 +11,8 @@ for config_file in searches/*.yml; do
 
   # Run camply campsites --config and redirect output to a file
   (camply campsites --yaml-config "$config_file" \
-    --search-once \
-    --offline-search --offline-search-path "results/${filename}.json" 2>&1 | tee "results/${filename}.log" ) &
+    --search-once --equipment Tent 0 \
+    --offline-search --offline-search-path "results/${filename}.json" 2>&1 | tee "logs/${filename}.log" ) &
 done
 
 wait

@@ -1,0 +1,16 @@
+provider: GoingToCamp
+recreation_area:
+  - 3
+campgrounds:
+  - -2147483375 # Lake Wenatchee
+  - -2147483388 # Deception Pass
+start_date: 2023-07-07
+end_date: 2023-07-16
+weekends: true
+nights: 1
+
+# todo camply doesnt support mixing cli args
+notifications: Twilio
+search_once: true
+offline_search: true
+offline_search_path: results/nw_wa.json
