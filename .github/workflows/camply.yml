@@ -1,0 +1,43 @@
+name: Run Camply
+
+concurrency: camply
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+
+jobs:
+  install_package:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x' # Replace with the desired Python version
+
+      - name: Install Camply
+        run: |
+          pip install camply
+
+      - name: Setup env
+        run: |
+          printf "${{ secrets.DOT_CAMPLY }}" > ~/.camply
+
+      - name: Cache Camply Data
+        uses: actions/cache@v2
+        with:
+          path: camply_campsites.json
+          key: camply_campsites.json
+
+      - name: Run Camply
+        run: |
+          ./.github/search.sh
+
+      - name: Commit results
+        run: |
+          git commit -am "Update"
