@@ -10,7 +10,8 @@ on:
 jobs:
   camply:
     runs-on: ubuntu-latest
-
+    outputs:
+      updated: ${{ steps.commit.outputs.updated }}
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v2
@@ -63,5 +64,5 @@ jobs:
   pages:
     needs:
       - camply
-    if: ${{ jobs.camply.steps.commit.updated }}
+    if: ${{ needs.commit.outputs.updated }}
     uses: ./.github/workflows/pages.yml
