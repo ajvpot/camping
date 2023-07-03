@@ -56,7 +56,8 @@ jobs:
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Copy data
         run: |
-          cp results/* hugo/data/
+          mkdir -p hugo/data/results
+          cp results/* hugo/data/results
       - name: Build with Hugo
         working-directory: hugo
         env:
