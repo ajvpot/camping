@@ -2,3 +2,6 @@ baseURL = 'https://vanderpot.com/camping/'
 languageCode = 'en-us'
 title = ''
 theme = 'hugo-PaperMod'
+
+[markup.goldmark.renderer]
+unsafe= true

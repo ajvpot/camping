@@ -1,7 +1,7 @@
 {{ range $fn, $value := $.Site.Data.results }}
-## Results for `{{ $fn }}`
+## `{{ $fn }}`
 {{ range $value }}
-* [{{ .recreation_area }} - {{ .facility_name }}]({{ .booking_url }})
+* [{{ replaceRE "((,)|\\()\\s?[a-zA-Z]{2}\\)?" "" .facility_name }} <small>{{ replaceRE "((,)|\\()\\s?[a-zA-Z]{2}\\)?" "" .recreation_area }}</small>]({{ .booking_url }})
     * {{ title (humanize (replace .campsite_loop_name "AREA" "")) }} #{{ .campsite_site_name }}
     * {{ time .booking_date | time.Format ":date_short" }}
         to
