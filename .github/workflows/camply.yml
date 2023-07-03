@@ -20,6 +20,7 @@ jobs:
         with:
           ref: results
           path: results
+          fetch-depth: 1
 
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -51,9 +52,16 @@ jobs:
 
       - name: Commit results
         working-directory: results
+        id: commit
         run: |
           git config --global user.email "you@example.com"
           git config --global user.name "github-actions"
           git add .
-          git commit -am "Update" || true
+          (git commit -am "Update" && echo "updated=true" >> "$GITHUB_OUTPUT") || true
           git push || true
+
+  pages:
+    needs:
+      - camply
+    if: ${{ jobs.camply.steps.commit.updated }}
+    uses: ./.github/workflows/pages.yml
