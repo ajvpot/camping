@@ -3,7 +3,7 @@ set -x
 
 mkdir -p results logs
 
-# Iterate over each .yml file in the searches directory
+# Iterate over each .yml file in the results directory
 for config_file in searches/*.yml; do
   # Extract the file name without extension
   filename=$(basename -- "$config_file")

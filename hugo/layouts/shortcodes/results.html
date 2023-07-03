@@ -1,0 +1,12 @@
+{{ range $fn, $value := $.Site.Data.results }}
+## Results for `{{ $fn }}`
+{{ range $value }}
+* [{{ .recreation_area }} - {{ .facility_name }}]({{ .booking_url }})
+    * {{ title (humanize (replace .campsite_loop_name "AREA" "")) }} #{{ .campsite_site_name }}
+    * {{ time .booking_date | time.Format ":date_short" }}
+        to
+        {{ time .booking_end_date | time.Format ":date_short" }}
+        ({{ .booking_nights }} night{{if gt .booking_nights 1}}s{{end}})
+    * {{ title (humanize .campsite_type) }} {{ .campsite_use_type }}
+{{ end }}
+{{ end }}

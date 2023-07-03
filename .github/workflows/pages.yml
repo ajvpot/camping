@@ -54,6 +54,9 @@ jobs:
       - name: Install Node.js dependencies
         working-directory: hugo
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+      - name: Copy data
+        run: |
+          cp results/* hugo/data/
       - name: Build with Hugo
         working-directory: hugo
         env:

@@ -1,2 +1,7 @@
 dist
 logs
+hugo/data/results
+hugo/.hugo_build.lock
+hugo/_hugo_build.lock
+hugo/resources/_gen
+hugo/public
