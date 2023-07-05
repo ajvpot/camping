@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-set -x
+set -euxo pipefail;
 
 mkdir -p results logs
 
@@ -10,7 +10,7 @@ for config_file in searches/*.yml; do
   filename="${filename%.*}"
 
   # Run camply campsites --config and redirect output to a file
-  (camply campsites --yaml-config "$config_file" \
+  (set -euo pipefail; camply campsites --yaml-config "$config_file" \
     --search-once --equipment Tent 0 \
     --offline-search --offline-search-path "results/${filename}.json" 2>&1 | tee "logs/${filename}.log" ) &
 done

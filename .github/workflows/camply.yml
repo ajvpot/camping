@@ -1,6 +1,6 @@
 name: Run Camply
 
-concurrency: ${{ (github.event_name == 'workflow_dispatch' || github.event_name == 'schedule') && 'camply' }}
+concurrency: ${{ (github.event_name == 'workflow_dispatch' || github.event_name == 'schedule') && 'camply' || '' }}
 
 on:
   schedule:
