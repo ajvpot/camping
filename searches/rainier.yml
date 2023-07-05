@@ -31,7 +31,7 @@ weekends: true
 nights: 1
 
 # todo camply doesnt support mixing cli args
-notifications: Twilio
+notifications: Discord
 search_once: true
 offline_search: true
 offline_search_path: results/rainier.json
