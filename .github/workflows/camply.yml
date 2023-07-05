@@ -1,6 +1,6 @@
 name: Run Camply
 
-concurrency: camply
+concurrency: ${{ (github.event_name == "workflow_dispatch" || github.event_name == "schedule") && "camply" }}
 
 on:
   schedule:
@@ -58,6 +58,7 @@ jobs:
       - name: Commit results
         working-directory: results
         id: commit
+        if: github.event_name == "workflow_dispatch" || github.event_name == "schedule"
         run: |
           git config --global user.email "you@example.com"
           git config --global user.name "github-actions"
