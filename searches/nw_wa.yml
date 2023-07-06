@@ -6,7 +6,7 @@ campgrounds:
   - -2147483388 # Deception Pass
 start_date: 2023-07-07
 end_date: 2023-07-16
-weekends: true
+weekends: false
 nights: 1
 
 # todo camply doesnt support mixing cli args
