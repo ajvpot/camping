@@ -6,9 +6,6 @@ on:
   schedule:
     - cron: '*/5 * * * *'
   workflow_dispatch:
-  push:
-    branches:
-      - main
   pull_request:
 
 jobs:
@@ -58,7 +55,7 @@ jobs:
       - name: Commit results
         working-directory: results
         id: commit
-        if: github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
+        if: ${{ github.event_name != 'pull_request' }}
         run: |
           git config --global user.email "you@example.com"
           git config --global user.name "github-actions"
