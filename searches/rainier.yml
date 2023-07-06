@@ -27,7 +27,7 @@ campgrounds:
   - 233877
 start_date: 2023-07-14
 end_date: 2023-07-18
-nights: 2
+nights: 1
 
 # todo camply doesnt support mixing cli args
 notifications: Twilio
