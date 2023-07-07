@@ -1,6 +1,7 @@
 provider: RecreationDotGov
 campgrounds:
   - 232466
+  - 234086
 start_date:
   - 2023-07-13
 end_date:
