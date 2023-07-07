@@ -4,6 +4,588 @@
         "booking_date": "2023-07-13T00:00:00",
         "booking_end_date": "2023-07-14T00:00:00",
         "booking_nights": 1,
+        "booking_url": "https://www.recreation.gov/camping/campsites/2072",
+        "campsite_attributes": [
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 52,
+                "attribute_name": "Max Num of People",
+                "attribute_value": "6"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 12,
+                "attribute_name": "Checkout Time",
+                "attribute_value": "12:00 PM"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 77,
+                "attribute_name": "Shade",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 79,
+                "attribute_name": "Site Access",
+                "attribute_value": "Drive-In"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 11,
+                "attribute_name": "Checkin Time",
+                "attribute_value": "12:00 PM"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 53,
+                "attribute_name": "Max Num of Vehicles",
+                "attribute_value": "2"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 26,
+                "attribute_name": "Driveway Surface",
+                "attribute_value": "Gravel"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 23,
+                "attribute_name": "Driveway Entry",
+                "attribute_value": "Pull-through"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Is Equipment Mandatory",
+                "attribute_value": "true"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 24,
+                "attribute_name": "Driveway Grade",
+                "attribute_value": "Moderate"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 25,
+                "attribute_name": "Driveway Length",
+                "attribute_value": "58"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 54,
+                "attribute_name": "Max Vehicle Length",
+                "attribute_value": "28"
+            }
+        ],
+        "campsite_id": 2072,
+        "campsite_loop_name": "Loop B",
+        "campsite_occupancy": [
+            0,
+            6
+        ],
+        "campsite_site_name": "B016",
+        "campsite_type": "RV NONELECTRIC",
+        "campsite_use_type": "Overnight",
+        "facility_id": 232466,
+        "facility_name": "Cougar Rock Campground",
+        "permitted_equipment": [
+            {
+                "equipment_name": "RV/Motorhome",
+                "max_length": 28.0
+            },
+            {
+                "equipment_name": "Trailer",
+                "max_length": 20.0
+            },
+            {
+                "equipment_name": "Pickup Camper",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "Pop up",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "Caravan/Camper Van",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "Car",
+                "max_length": 0.0
+            }
+        ],
+        "recreation_area": "Mount Rainier National Park, WA",
+        "recreation_area_id": 2835
+    },
+    {
+        "availability_status": "Available",
+        "booking_date": "2023-07-13T00:00:00",
+        "booking_end_date": "2023-07-14T00:00:00",
+        "booking_nights": 1,
+        "booking_url": "https://www.recreation.gov/camping/campsites/2996",
+        "campsite_attributes": [
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 52,
+                "attribute_name": "Max Num of People",
+                "attribute_value": "4"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 12,
+                "attribute_name": "Checkout Time",
+                "attribute_value": "12:00 PM"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 77,
+                "attribute_name": "Shade",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 79,
+                "attribute_name": "Site Access",
+                "attribute_value": "Drive-In"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 11,
+                "attribute_name": "Checkin Time",
+                "attribute_value": "12:00 PM"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 23,
+                "attribute_name": "Driveway Entry",
+                "attribute_value": "Back-In"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Is Equipment Mandatory",
+                "attribute_value": "true"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 24,
+                "attribute_name": "Driveway Grade",
+                "attribute_value": "Moderate"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 25,
+                "attribute_name": "Driveway Length",
+                "attribute_value": "21"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 54,
+                "attribute_name": "Max Vehicle Length",
+                "attribute_value": "19"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 53,
+                "attribute_name": "Max Num of Vehicles",
+                "attribute_value": "1"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 26,
+                "attribute_name": "Driveway Surface",
+                "attribute_value": "Gravel"
+            }
+        ],
+        "campsite_id": 2996,
+        "campsite_loop_name": "Loop C",
+        "campsite_occupancy": [
+            0,
+            4
+        ],
+        "campsite_site_name": "C022",
+        "campsite_type": "RV NONELECTRIC",
+        "campsite_use_type": "Overnight",
+        "facility_id": 232466,
+        "facility_name": "Cougar Rock Campground",
+        "permitted_equipment": [
+            {
+                "equipment_name": "Car",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "Pickup Camper",
+                "max_length": 0.0
+            }
+        ],
+        "recreation_area": "Mount Rainier National Park, WA",
+        "recreation_area_id": 2835
+    },
+    {
+        "availability_status": "Available",
+        "booking_date": "2023-07-13T00:00:00",
+        "booking_end_date": "2023-07-14T00:00:00",
+        "booking_nights": 1,
+        "booking_url": "https://www.recreation.gov/camping/campsites/2030",
+        "campsite_attributes": [
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 12,
+                "attribute_name": "Checkout Time",
+                "attribute_value": "12:00 PM"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 77,
+                "attribute_name": "Shade",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 79,
+                "attribute_name": "Site Access",
+                "attribute_value": "Drive-In"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 11,
+                "attribute_name": "Checkin Time",
+                "attribute_value": "12:00 PM"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 52,
+                "attribute_name": "Max Num of People",
+                "attribute_value": "4"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 54,
+                "attribute_name": "Max Vehicle Length",
+                "attribute_value": "24"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 53,
+                "attribute_name": "Max Num of Vehicles",
+                "attribute_value": "1"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 26,
+                "attribute_name": "Driveway Surface",
+                "attribute_value": "Gravel"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 23,
+                "attribute_name": "Driveway Entry",
+                "attribute_value": "Back-In"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Is Equipment Mandatory",
+                "attribute_value": "true"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 24,
+                "attribute_name": "Driveway Grade",
+                "attribute_value": "Moderate"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 25,
+                "attribute_name": "Driveway Length",
+                "attribute_value": "24"
+            }
+        ],
+        "campsite_id": 2030,
+        "campsite_loop_name": "Loop C",
+        "campsite_occupancy": [
+            0,
+            4
+        ],
+        "campsite_site_name": "C034",
+        "campsite_type": "RV NONELECTRIC",
+        "campsite_use_type": "Overnight",
+        "facility_id": 232466,
+        "facility_name": "Cougar Rock Campground",
+        "permitted_equipment": [
+            {
+                "equipment_name": "RV/Motorhome",
+                "max_length": 24.0
+            },
+            {
+                "equipment_name": "Pickup Camper",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "Caravan/Camper Van",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "Car",
+                "max_length": 0.0
+            }
+        ],
+        "recreation_area": "Mount Rainier National Park, WA",
+        "recreation_area_id": 2835
+    },
+    {
+        "availability_status": "Available",
+        "booking_date": "2023-07-13T00:00:00",
+        "booking_end_date": "2023-07-14T00:00:00",
+        "booking_nights": 1,
+        "booking_url": "https://www.recreation.gov/camping/campsites/2028",
+        "campsite_attributes": [
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 79,
+                "attribute_name": "Site Access",
+                "attribute_value": "Drive-In"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 11,
+                "attribute_name": "Checkin Time",
+                "attribute_value": "12:00 PM"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 52,
+                "attribute_name": "Max Num of People",
+                "attribute_value": "4"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 12,
+                "attribute_name": "Checkout Time",
+                "attribute_value": "12:00 PM"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 77,
+                "attribute_name": "Shade",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 26,
+                "attribute_name": "Driveway Surface",
+                "attribute_value": "Gravel"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 23,
+                "attribute_name": "Driveway Entry",
+                "attribute_value": "Back-In"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Is Equipment Mandatory",
+                "attribute_value": "true"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 24,
+                "attribute_name": "Driveway Grade",
+                "attribute_value": "Moderate"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 25,
+                "attribute_name": "Driveway Length",
+                "attribute_value": "18"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 54,
+                "attribute_name": "Max Vehicle Length",
+                "attribute_value": "18"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 53,
+                "attribute_name": "Max Num of Vehicles",
+                "attribute_value": "1"
+            }
+        ],
+        "campsite_id": 2028,
+        "campsite_loop_name": "Loop C",
+        "campsite_occupancy": [
+            0,
+            4
+        ],
+        "campsite_site_name": "C032",
+        "campsite_type": "RV NONELECTRIC",
+        "campsite_use_type": "Overnight",
+        "facility_id": 232466,
+        "facility_name": "Cougar Rock Campground",
+        "permitted_equipment": [
+            {
+                "equipment_name": "Pickup Camper",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "Car",
+                "max_length": 0.0
+            }
+        ],
+        "recreation_area": "Mount Rainier National Park, WA",
+        "recreation_area_id": 2835
+    },
+    {
+        "availability_status": "Available",
+        "booking_date": "2023-07-13T00:00:00",
+        "booking_end_date": "2023-07-14T00:00:00",
+        "booking_nights": 1,
+        "booking_url": "https://www.recreation.gov/camping/campsites/2076",
+        "campsite_attributes": [
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 52,
+                "attribute_name": "Max Num of People",
+                "attribute_value": "4"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 12,
+                "attribute_name": "Checkout Time",
+                "attribute_value": "12:00 PM"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 77,
+                "attribute_name": "Shade",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 79,
+                "attribute_name": "Site Access",
+                "attribute_value": "Drive-In"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 11,
+                "attribute_name": "Checkin Time",
+                "attribute_value": "12:00 PM"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 54,
+                "attribute_name": "Max Vehicle Length",
+                "attribute_value": "20"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 23,
+                "attribute_name": "Driveway Entry",
+                "attribute_value": "Back-in"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Is Equipment Mandatory",
+                "attribute_value": "true"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 26,
+                "attribute_name": "Driveway Surface",
+                "attribute_value": "Gravel"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 24,
+                "attribute_name": "Driveway Grade",
+                "attribute_value": "Moderate"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "",
+                "attribute_value": "6"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 53,
+                "attribute_name": "Max Num of Vehicles",
+                "attribute_value": "1"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "",
+                "attribute_value": "9"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 25,
+                "attribute_name": "Driveway Length",
+                "attribute_value": "20"
+            }
+        ],
+        "campsite_id": 2076,
+        "campsite_loop_name": "Loop B",
+        "campsite_occupancy": [
+            0,
+            4
+        ],
+        "campsite_site_name": "B022",
+        "campsite_type": "STANDARD NONELECTRIC",
+        "campsite_use_type": "Overnight",
+        "facility_id": 232466,
+        "facility_name": "Cougar Rock Campground",
+        "permitted_equipment": [
+            {
+                "equipment_name": "Tent",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "Pickup Camper",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "Car",
+                "max_length": 0.0
+            }
+        ],
+        "recreation_area": "Mount Rainier National Park, WA",
+        "recreation_area_id": 2835
+    },
+    {
+        "availability_status": "Available",
+        "booking_date": "2023-07-13T00:00:00",
+        "booking_end_date": "2023-07-14T00:00:00",
+        "booking_nights": 1,
+        "booking_url": "https://www.recreation.gov/camping/campsites/2714",
+        "campsite_attributes": null,
+        "campsite_id": 2714,
+        "campsite_loop_name": "Loop D",
+        "campsite_occupancy": [
+            0,
+            6
+        ],
+        "campsite_site_name": "D016",
+        "campsite_type": "MANAGEMENT",
+        "campsite_use_type": "Overnight",
+        "facility_id": 232466,
+        "facility_name": "Cougar Rock Campground",
+        "permitted_equipment": null,
+        "recreation_area": "Mount Rainier National Park, WA",
+        "recreation_area_id": 2835
+    },
+    {
+        "availability_status": "Available",
+        "booking_date": "2023-07-13T00:00:00",
+        "booking_end_date": "2023-07-14T00:00:00",
+        "booking_nights": 1,
         "booking_url": "https://www.recreation.gov/camping/campsites/77506",
         "campsite_attributes": [
             {
@@ -250,244 +832,6 @@
         "booking_date": "2023-07-13T00:00:00",
         "booking_end_date": "2023-07-14T00:00:00",
         "booking_nights": 1,
-        "booking_url": "https://www.recreation.gov/camping/campsites/2996",
-        "campsite_attributes": [
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 52,
-                "attribute_name": "Max Num of People",
-                "attribute_value": "4"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 12,
-                "attribute_name": "Checkout Time",
-                "attribute_value": "12:00 PM"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 77,
-                "attribute_name": "Shade",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 79,
-                "attribute_name": "Site Access",
-                "attribute_value": "Drive-In"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 11,
-                "attribute_name": "Checkin Time",
-                "attribute_value": "12:00 PM"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 23,
-                "attribute_name": "Driveway Entry",
-                "attribute_value": "Back-In"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Is Equipment Mandatory",
-                "attribute_value": "true"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 24,
-                "attribute_name": "Driveway Grade",
-                "attribute_value": "Moderate"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 25,
-                "attribute_name": "Driveway Length",
-                "attribute_value": "21"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 54,
-                "attribute_name": "Max Vehicle Length",
-                "attribute_value": "19"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 53,
-                "attribute_name": "Max Num of Vehicles",
-                "attribute_value": "1"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 26,
-                "attribute_name": "Driveway Surface",
-                "attribute_value": "Gravel"
-            }
-        ],
-        "campsite_id": 2996,
-        "campsite_loop_name": "Loop C",
-        "campsite_occupancy": [
-            0,
-            4
-        ],
-        "campsite_site_name": "C022",
-        "campsite_type": "RV NONELECTRIC",
-        "campsite_use_type": "Overnight",
-        "facility_id": 232466,
-        "facility_name": "Cougar Rock Campground",
-        "permitted_equipment": [
-            {
-                "equipment_name": "Car",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "Pickup Camper",
-                "max_length": 0.0
-            }
-        ],
-        "recreation_area": "Mount Rainier National Park, WA",
-        "recreation_area_id": 2835
-    },
-    {
-        "availability_status": "Available",
-        "booking_date": "2023-07-13T00:00:00",
-        "booking_end_date": "2023-07-14T00:00:00",
-        "booking_nights": 1,
-        "booking_url": "https://www.recreation.gov/camping/campsites/2030",
-        "campsite_attributes": [
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 12,
-                "attribute_name": "Checkout Time",
-                "attribute_value": "12:00 PM"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 77,
-                "attribute_name": "Shade",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 79,
-                "attribute_name": "Site Access",
-                "attribute_value": "Drive-In"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 11,
-                "attribute_name": "Checkin Time",
-                "attribute_value": "12:00 PM"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 52,
-                "attribute_name": "Max Num of People",
-                "attribute_value": "4"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 54,
-                "attribute_name": "Max Vehicle Length",
-                "attribute_value": "24"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 53,
-                "attribute_name": "Max Num of Vehicles",
-                "attribute_value": "1"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 26,
-                "attribute_name": "Driveway Surface",
-                "attribute_value": "Gravel"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 23,
-                "attribute_name": "Driveway Entry",
-                "attribute_value": "Back-In"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Is Equipment Mandatory",
-                "attribute_value": "true"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 24,
-                "attribute_name": "Driveway Grade",
-                "attribute_value": "Moderate"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 25,
-                "attribute_name": "Driveway Length",
-                "attribute_value": "24"
-            }
-        ],
-        "campsite_id": 2030,
-        "campsite_loop_name": "Loop C",
-        "campsite_occupancy": [
-            0,
-            4
-        ],
-        "campsite_site_name": "C034",
-        "campsite_type": "RV NONELECTRIC",
-        "campsite_use_type": "Overnight",
-        "facility_id": 232466,
-        "facility_name": "Cougar Rock Campground",
-        "permitted_equipment": [
-            {
-                "equipment_name": "RV/Motorhome",
-                "max_length": 24.0
-            },
-            {
-                "equipment_name": "Pickup Camper",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "Caravan/Camper Van",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "Car",
-                "max_length": 0.0
-            }
-        ],
-        "recreation_area": "Mount Rainier National Park, WA",
-        "recreation_area_id": 2835
-    },
-    {
-        "availability_status": "Available",
-        "booking_date": "2023-07-13T00:00:00",
-        "booking_end_date": "2023-07-14T00:00:00",
-        "booking_nights": 1,
-        "booking_url": "https://www.recreation.gov/camping/campsites/2995",
-        "campsite_attributes": null,
-        "campsite_id": 2995,
-        "campsite_loop_name": "Loop C",
-        "campsite_occupancy": [
-            0,
-            6
-        ],
-        "campsite_site_name": "C020",
-        "campsite_type": "MANAGEMENT",
-        "campsite_use_type": "Overnight",
-        "facility_id": 232466,
-        "facility_name": "Cougar Rock Campground",
-        "permitted_equipment": null,
-        "recreation_area": "Mount Rainier National Park, WA",
-        "recreation_area_id": 2835
-    },
-    {
-        "availability_status": "Available",
-        "booking_date": "2023-07-13T00:00:00",
-        "booking_end_date": "2023-07-14T00:00:00",
-        "booking_nights": 1,
         "booking_url": "https://www.recreation.gov/camping/campsites/77140",
         "campsite_attributes": [
             {
@@ -630,15 +974,15 @@
         "booking_date": "2023-07-13T00:00:00",
         "booking_end_date": "2023-07-14T00:00:00",
         "booking_nights": 1,
-        "booking_url": "https://www.recreation.gov/camping/campsites/2714",
+        "booking_url": "https://www.recreation.gov/camping/campsites/2995",
         "campsite_attributes": null,
-        "campsite_id": 2714,
-        "campsite_loop_name": "Loop D",
+        "campsite_id": 2995,
+        "campsite_loop_name": "Loop C",
         "campsite_occupancy": [
             0,
             6
         ],
-        "campsite_site_name": "D016",
+        "campsite_site_name": "C020",
         "campsite_type": "MANAGEMENT",
         "campsite_use_type": "Overnight",
         "facility_id": 232466,
@@ -765,230 +1109,6 @@
             },
             {
                 "equipment_name": "Pickup Camper",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "Caravan/Camper Van",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "Car",
-                "max_length": 0.0
-            }
-        ],
-        "recreation_area": "Mount Rainier National Park, WA",
-        "recreation_area_id": 2835
-    },
-    {
-        "availability_status": "Available",
-        "booking_date": "2023-07-13T00:00:00",
-        "booking_end_date": "2023-07-14T00:00:00",
-        "booking_nights": 1,
-        "booking_url": "https://www.recreation.gov/camping/campsites/2028",
-        "campsite_attributes": [
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 79,
-                "attribute_name": "Site Access",
-                "attribute_value": "Drive-In"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 11,
-                "attribute_name": "Checkin Time",
-                "attribute_value": "12:00 PM"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 52,
-                "attribute_name": "Max Num of People",
-                "attribute_value": "4"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 12,
-                "attribute_name": "Checkout Time",
-                "attribute_value": "12:00 PM"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 77,
-                "attribute_name": "Shade",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 26,
-                "attribute_name": "Driveway Surface",
-                "attribute_value": "Gravel"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 23,
-                "attribute_name": "Driveway Entry",
-                "attribute_value": "Back-In"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Is Equipment Mandatory",
-                "attribute_value": "true"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 24,
-                "attribute_name": "Driveway Grade",
-                "attribute_value": "Moderate"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 25,
-                "attribute_name": "Driveway Length",
-                "attribute_value": "18"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 54,
-                "attribute_name": "Max Vehicle Length",
-                "attribute_value": "18"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 53,
-                "attribute_name": "Max Num of Vehicles",
-                "attribute_value": "1"
-            }
-        ],
-        "campsite_id": 2028,
-        "campsite_loop_name": "Loop C",
-        "campsite_occupancy": [
-            0,
-            4
-        ],
-        "campsite_site_name": "C032",
-        "campsite_type": "RV NONELECTRIC",
-        "campsite_use_type": "Overnight",
-        "facility_id": 232466,
-        "facility_name": "Cougar Rock Campground",
-        "permitted_equipment": [
-            {
-                "equipment_name": "Pickup Camper",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "Car",
-                "max_length": 0.0
-            }
-        ],
-        "recreation_area": "Mount Rainier National Park, WA",
-        "recreation_area_id": 2835
-    },
-    {
-        "availability_status": "Available",
-        "booking_date": "2023-07-13T00:00:00",
-        "booking_end_date": "2023-07-14T00:00:00",
-        "booking_nights": 1,
-        "booking_url": "https://www.recreation.gov/camping/campsites/2072",
-        "campsite_attributes": [
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 52,
-                "attribute_name": "Max Num of People",
-                "attribute_value": "6"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 12,
-                "attribute_name": "Checkout Time",
-                "attribute_value": "12:00 PM"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 77,
-                "attribute_name": "Shade",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 79,
-                "attribute_name": "Site Access",
-                "attribute_value": "Drive-In"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 11,
-                "attribute_name": "Checkin Time",
-                "attribute_value": "12:00 PM"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 53,
-                "attribute_name": "Max Num of Vehicles",
-                "attribute_value": "2"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 26,
-                "attribute_name": "Driveway Surface",
-                "attribute_value": "Gravel"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 23,
-                "attribute_name": "Driveway Entry",
-                "attribute_value": "Pull-through"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Is Equipment Mandatory",
-                "attribute_value": "true"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 24,
-                "attribute_name": "Driveway Grade",
-                "attribute_value": "Moderate"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 25,
-                "attribute_name": "Driveway Length",
-                "attribute_value": "58"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 54,
-                "attribute_name": "Max Vehicle Length",
-                "attribute_value": "28"
-            }
-        ],
-        "campsite_id": 2072,
-        "campsite_loop_name": "Loop B",
-        "campsite_occupancy": [
-            0,
-            6
-        ],
-        "campsite_site_name": "B016",
-        "campsite_type": "RV NONELECTRIC",
-        "campsite_use_type": "Overnight",
-        "facility_id": 232466,
-        "facility_name": "Cougar Rock Campground",
-        "permitted_equipment": [
-            {
-                "equipment_name": "RV/Motorhome",
-                "max_length": 28.0
-            },
-            {
-                "equipment_name": "Trailer",
-                "max_length": 20.0
-            },
-            {
-                "equipment_name": "Pickup Camper",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "Pop up",
                 "max_length": 0.0
             },
             {
