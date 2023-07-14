@@ -1,0 +1,15 @@
+provider: RecreationDotGov
+campsites:
+  - 2654
+  - 2655
+start_date:
+  - 2023-07-16
+end_date:
+  - 2023-09-30
+nights: 1
+
+# todo camply doesnt support mixing cli args
+notifications: Discord
+search_once: true
+offline_search: true
+offline_search_path: results/hot.json
