@@ -4,8 +4,8 @@ recreation_area:
 campgrounds:
   - -2147483375 # Lake Wenatchee
   - -2147483388 # Deception Pass
-start_date: 2023-07-07
-end_date: 2023-07-16
+start_date: 2023-08-06
+end_date: 2023-09-20
 weekends: false
 nights: 1
 
