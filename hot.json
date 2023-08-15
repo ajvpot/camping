@@ -1,377 +1,911 @@
 [
     {
         "availability_status": "Available",
-        "booking_date": "2023-07-26T00:00:00",
-        "booking_end_date": "2023-07-27T00:00:00",
-        "booking_nights": 1,
-        "booking_url": "https://www.recreation.gov/camping/campsites/2654",
-        "campsite_attributes": [
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 56,
-                "attribute_name": "Min Num of People",
-                "attribute_value": "1"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 9,
-                "attribute_name": "Campfire Allowed",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 12,
-                "attribute_name": "Checkout Time",
-                "attribute_value": "12:00 PM"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 65,
-                "attribute_name": "Pets Allowed",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 77,
-                "attribute_name": "Shade",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 52,
-                "attribute_name": "Max Num of People",
-                "attribute_value": "6"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 79,
-                "attribute_name": "Site Access",
-                "attribute_value": "Drive-In"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 11,
-                "attribute_name": "Checkin Time",
-                "attribute_value": "12:00 PM"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Is Equipment Mandatory",
-                "attribute_value": "true"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Tent Pad Length",
-                "attribute_value": "10"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 25,
-                "attribute_name": "Driveway Length",
-                "attribute_value": "36"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 54,
-                "attribute_name": "Max Vehicle Length",
-                "attribute_value": "32"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 53,
-                "attribute_name": "Max Num of Vehicles",
-                "attribute_value": "2"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 26,
-                "attribute_name": "Driveway Surface",
-                "attribute_value": "Gravel"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Tent Pad Width",
-                "attribute_value": "10"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 23,
-                "attribute_name": "Driveway Entry",
-                "attribute_value": "Back-In"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 31,
-                "attribute_name": "Fire Pit",
-                "attribute_value": "Y"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 91,
-                "attribute_name": "Tent Pad",
-                "attribute_value": "Y"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 67,
-                "attribute_name": "Picnic Table",
-                "attribute_value": "Y"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 300,
-                "attribute_name": "Map X Coordinate",
-                "attribute_value": "577.459045410156"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 314,
-                "attribute_name": "Placed on Map",
-                "attribute_value": "1"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 301,
-                "attribute_name": "Map Y Coordinate",
-                "attribute_value": "589.896423339844"
-            }
-        ],
-        "campsite_id": 2654,
-        "campsite_loop_name": "LOOP B",
-        "campsite_occupancy": [
-            1,
-            6
-        ],
-        "campsite_site_name": "B009",
-        "campsite_type": "STANDARD NONELECTRIC",
-        "campsite_use_type": "Overnight",
-        "facility_id": 232465,
-        "facility_name": "Ohanapecosh Campground",
-        "permitted_equipment": [
-            {
-                "equipment_name": "Tent",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "RV",
-                "max_length": 32.0
-            },
-            {
-                "equipment_name": "Trailer",
-                "max_length": 27.0
-            },
-            {
-                "equipment_name": "Pickup Camper",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "Caravan/Camper Van",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "Car",
-                "max_length": 0.0
-            }
-        ],
-        "recreation_area": "Mount Rainier National Park, WA",
-        "recreation_area_id": 2835
-    },
-    {
-        "availability_status": "Available",
-        "booking_date": "2023-09-07T00:00:00",
-        "booking_end_date": "2023-09-08T00:00:00",
-        "booking_nights": 1,
-        "booking_url": "https://www.recreation.gov/camping/campsites/2654",
-        "campsite_attributes": [
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 12,
-                "attribute_name": "Checkout Time",
-                "attribute_value": "12:00 PM"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 65,
-                "attribute_name": "Pets Allowed",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 77,
-                "attribute_name": "Shade",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 52,
-                "attribute_name": "Max Num of People",
-                "attribute_value": "6"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 79,
-                "attribute_name": "Site Access",
-                "attribute_value": "Drive-In"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 11,
-                "attribute_name": "Checkin Time",
-                "attribute_value": "12:00 PM"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 56,
-                "attribute_name": "Min Num of People",
-                "attribute_value": "1"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 9,
-                "attribute_name": "Campfire Allowed",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 26,
-                "attribute_name": "Driveway Surface",
-                "attribute_value": "Gravel"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Tent Pad Width",
-                "attribute_value": "10"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 23,
-                "attribute_name": "Driveway Entry",
-                "attribute_value": "Back-In"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Is Equipment Mandatory",
-                "attribute_value": "true"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Tent Pad Length",
-                "attribute_value": "10"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 25,
-                "attribute_name": "Driveway Length",
-                "attribute_value": "36"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 54,
-                "attribute_name": "Max Vehicle Length",
-                "attribute_value": "32"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 53,
-                "attribute_name": "Max Num of Vehicles",
-                "attribute_value": "2"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 31,
-                "attribute_name": "Fire Pit",
-                "attribute_value": "Y"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 91,
-                "attribute_name": "Tent Pad",
-                "attribute_value": "Y"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 67,
-                "attribute_name": "Picnic Table",
-                "attribute_value": "Y"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 300,
-                "attribute_name": "Map X Coordinate",
-                "attribute_value": "577.459045410156"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 314,
-                "attribute_name": "Placed on Map",
-                "attribute_value": "1"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 301,
-                "attribute_name": "Map Y Coordinate",
-                "attribute_value": "589.896423339844"
-            }
-        ],
-        "campsite_id": 2654,
-        "campsite_loop_name": "LOOP B",
-        "campsite_occupancy": [
-            1,
-            6
-        ],
-        "campsite_site_name": "B009",
-        "campsite_type": "STANDARD NONELECTRIC",
-        "campsite_use_type": "Overnight",
-        "facility_id": 232465,
-        "facility_name": "Ohanapecosh Campground",
-        "permitted_equipment": [
-            {
-                "equipment_name": "Tent",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "RV",
-                "max_length": 32.0
-            },
-            {
-                "equipment_name": "Trailer",
-                "max_length": 27.0
-            },
-            {
-                "equipment_name": "Pickup Camper",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "Caravan/Camper Van",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "Car",
-                "max_length": 0.0
-            }
-        ],
-        "recreation_area": "Mount Rainier National Park, WA",
-        "recreation_area_id": 2835
-    },
-    {
-        "availability_status": "Available",
-        "booking_date": "2023-07-28T00:00:00",
-        "booking_end_date": "2023-07-29T00:00:00",
+        "booking_date": "2023-08-09T00:00:00",
+        "booking_end_date": "2023-08-10T00:00:00",
         "booking_nights": 1,
         "booking_url": "https://www.recreation.gov/camping/campsites/2655",
         "campsite_attributes": [
             {
                 "attribute_category": "site_details",
+                "attribute_id": 52,
+                "attribute_name": "Max Num of People",
+                "attribute_value": "6"
+            },
+            {
+                "attribute_category": "site_details",
                 "attribute_id": 79,
                 "attribute_name": "Site Access",
                 "attribute_value": "Drive-In"
             },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 11,
+                "attribute_name": "Checkin Time",
+                "attribute_value": "12:00 PM"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 56,
+                "attribute_name": "Min Num of People",
+                "attribute_value": "1"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 9,
+                "attribute_name": "Campfire Allowed",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 12,
+                "attribute_name": "Checkout Time",
+                "attribute_value": "12:00 PM"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 65,
+                "attribute_name": "Pets Allowed",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 77,
+                "attribute_name": "Shade",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Tent Pad Length",
+                "attribute_value": "8"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 25,
+                "attribute_name": "Driveway Length",
+                "attribute_value": "28"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 54,
+                "attribute_name": "Max Vehicle Length",
+                "attribute_value": "25"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 53,
+                "attribute_name": "Max Num of Vehicles",
+                "attribute_value": "2"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 26,
+                "attribute_name": "Driveway Surface",
+                "attribute_value": "Gravel"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Tent Pad Width",
+                "attribute_value": "12"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 23,
+                "attribute_name": "Driveway Entry",
+                "attribute_value": "Back-In"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Is Equipment Mandatory",
+                "attribute_value": "true"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 301,
+                "attribute_name": "Map Y Coordinate",
+                "attribute_value": "581.371459960938"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 314,
+                "attribute_name": "Placed on Map",
+                "attribute_value": "1"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 67,
+                "attribute_name": "Picnic Table",
+                "attribute_value": "Y"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 31,
+                "attribute_name": "Fire Pit",
+                "attribute_value": "Y"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 300,
+                "attribute_name": "Map X Coordinate",
+                "attribute_value": "562.488403320313"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 91,
+                "attribute_name": "Tent Pad",
+                "attribute_value": "Y"
+            }
+        ],
+        "campsite_id": 2655,
+        "campsite_loop_name": "LOOP B",
+        "campsite_occupancy": [
+            1,
+            6
+        ],
+        "campsite_site_name": "B010",
+        "campsite_type": "STANDARD NONELECTRIC",
+        "campsite_use_type": "Overnight",
+        "facility_id": 232465,
+        "facility_name": "Ohanapecosh Campground",
+        "permitted_equipment": [
+            {
+                "equipment_name": "Tent",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "RV",
+                "max_length": 25.0
+            },
+            {
+                "equipment_name": "Trailer",
+                "max_length": 18.0
+            },
+            {
+                "equipment_name": "Pickup Camper",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "Caravan/Camper Van",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "Car",
+                "max_length": 0.0
+            }
+        ],
+        "recreation_area": "Mount Rainier National Park, WA",
+        "recreation_area_id": 2835
+    },
+    {
+        "availability_status": "Available",
+        "booking_date": "2023-08-20T00:00:00",
+        "booking_end_date": "2023-08-21T00:00:00",
+        "booking_nights": 1,
+        "booking_url": "https://www.recreation.gov/camping/campsites/2654",
+        "campsite_attributes": [
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 77,
+                "attribute_name": "Shade",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 52,
+                "attribute_name": "Max Num of People",
+                "attribute_value": "6"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 79,
+                "attribute_name": "Site Access",
+                "attribute_value": "Drive-In"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 11,
+                "attribute_name": "Checkin Time",
+                "attribute_value": "12:00 PM"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 56,
+                "attribute_name": "Min Num of People",
+                "attribute_value": "1"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 9,
+                "attribute_name": "Campfire Allowed",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 12,
+                "attribute_name": "Checkout Time",
+                "attribute_value": "12:00 PM"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 65,
+                "attribute_name": "Pets Allowed",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 25,
+                "attribute_name": "Driveway Length",
+                "attribute_value": "36"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 54,
+                "attribute_name": "Max Vehicle Length",
+                "attribute_value": "32"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 53,
+                "attribute_name": "Max Num of Vehicles",
+                "attribute_value": "2"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 26,
+                "attribute_name": "Driveway Surface",
+                "attribute_value": "Gravel"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Tent Pad Width",
+                "attribute_value": "10"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 23,
+                "attribute_name": "Driveway Entry",
+                "attribute_value": "Back-In"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Is Equipment Mandatory",
+                "attribute_value": "true"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Tent Pad Length",
+                "attribute_value": "10"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 31,
+                "attribute_name": "Fire Pit",
+                "attribute_value": "Y"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 91,
+                "attribute_name": "Tent Pad",
+                "attribute_value": "Y"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 67,
+                "attribute_name": "Picnic Table",
+                "attribute_value": "Y"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 300,
+                "attribute_name": "Map X Coordinate",
+                "attribute_value": "577.459045410156"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 314,
+                "attribute_name": "Placed on Map",
+                "attribute_value": "1"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 301,
+                "attribute_name": "Map Y Coordinate",
+                "attribute_value": "589.896423339844"
+            }
+        ],
+        "campsite_id": 2654,
+        "campsite_loop_name": "LOOP B",
+        "campsite_occupancy": [
+            1,
+            6
+        ],
+        "campsite_site_name": "B009",
+        "campsite_type": "STANDARD NONELECTRIC",
+        "campsite_use_type": "Overnight",
+        "facility_id": 232465,
+        "facility_name": "Ohanapecosh Campground",
+        "permitted_equipment": [
+            {
+                "equipment_name": "Tent",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "RV",
+                "max_length": 32.0
+            },
+            {
+                "equipment_name": "Trailer",
+                "max_length": 27.0
+            },
+            {
+                "equipment_name": "Pickup Camper",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "Caravan/Camper Van",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "Car",
+                "max_length": 0.0
+            }
+        ],
+        "recreation_area": "Mount Rainier National Park, WA",
+        "recreation_area_id": 2835
+    },
+    {
+        "availability_status": "Available",
+        "booking_date": "2023-08-23T00:00:00",
+        "booking_end_date": "2023-08-24T00:00:00",
+        "booking_nights": 1,
+        "booking_url": "https://www.recreation.gov/camping/campsites/2654",
+        "campsite_attributes": [
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 77,
+                "attribute_name": "Shade",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 52,
+                "attribute_name": "Max Num of People",
+                "attribute_value": "6"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 79,
+                "attribute_name": "Site Access",
+                "attribute_value": "Drive-In"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 11,
+                "attribute_name": "Checkin Time",
+                "attribute_value": "12:00 PM"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 56,
+                "attribute_name": "Min Num of People",
+                "attribute_value": "1"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 9,
+                "attribute_name": "Campfire Allowed",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 12,
+                "attribute_name": "Checkout Time",
+                "attribute_value": "12:00 PM"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 65,
+                "attribute_name": "Pets Allowed",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 25,
+                "attribute_name": "Driveway Length",
+                "attribute_value": "36"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 54,
+                "attribute_name": "Max Vehicle Length",
+                "attribute_value": "32"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 53,
+                "attribute_name": "Max Num of Vehicles",
+                "attribute_value": "2"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 26,
+                "attribute_name": "Driveway Surface",
+                "attribute_value": "Gravel"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Tent Pad Width",
+                "attribute_value": "10"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 23,
+                "attribute_name": "Driveway Entry",
+                "attribute_value": "Back-In"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Is Equipment Mandatory",
+                "attribute_value": "true"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Tent Pad Length",
+                "attribute_value": "10"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 31,
+                "attribute_name": "Fire Pit",
+                "attribute_value": "Y"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 91,
+                "attribute_name": "Tent Pad",
+                "attribute_value": "Y"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 67,
+                "attribute_name": "Picnic Table",
+                "attribute_value": "Y"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 300,
+                "attribute_name": "Map X Coordinate",
+                "attribute_value": "577.459045410156"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 314,
+                "attribute_name": "Placed on Map",
+                "attribute_value": "1"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 301,
+                "attribute_name": "Map Y Coordinate",
+                "attribute_value": "589.896423339844"
+            }
+        ],
+        "campsite_id": 2654,
+        "campsite_loop_name": "LOOP B",
+        "campsite_occupancy": [
+            1,
+            6
+        ],
+        "campsite_site_name": "B009",
+        "campsite_type": "STANDARD NONELECTRIC",
+        "campsite_use_type": "Overnight",
+        "facility_id": 232465,
+        "facility_name": "Ohanapecosh Campground",
+        "permitted_equipment": [
+            {
+                "equipment_name": "Tent",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "RV",
+                "max_length": 32.0
+            },
+            {
+                "equipment_name": "Trailer",
+                "max_length": 27.0
+            },
+            {
+                "equipment_name": "Pickup Camper",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "Caravan/Camper Van",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "Car",
+                "max_length": 0.0
+            }
+        ],
+        "recreation_area": "Mount Rainier National Park, WA",
+        "recreation_area_id": 2835
+    },
+    {
+        "availability_status": "Available",
+        "booking_date": "2023-08-14T00:00:00",
+        "booking_end_date": "2023-08-15T00:00:00",
+        "booking_nights": 1,
+        "booking_url": "https://www.recreation.gov/camping/campsites/2654",
+        "campsite_attributes": [
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 12,
+                "attribute_name": "Checkout Time",
+                "attribute_value": "12:00 PM"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 65,
+                "attribute_name": "Pets Allowed",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 77,
+                "attribute_name": "Shade",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 52,
+                "attribute_name": "Max Num of People",
+                "attribute_value": "6"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 79,
+                "attribute_name": "Site Access",
+                "attribute_value": "Drive-In"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 11,
+                "attribute_name": "Checkin Time",
+                "attribute_value": "12:00 PM"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 56,
+                "attribute_name": "Min Num of People",
+                "attribute_value": "1"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 9,
+                "attribute_name": "Campfire Allowed",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 26,
+                "attribute_name": "Driveway Surface",
+                "attribute_value": "Gravel"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Tent Pad Width",
+                "attribute_value": "10"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 23,
+                "attribute_name": "Driveway Entry",
+                "attribute_value": "Back-In"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Is Equipment Mandatory",
+                "attribute_value": "true"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Tent Pad Length",
+                "attribute_value": "10"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 25,
+                "attribute_name": "Driveway Length",
+                "attribute_value": "36"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 54,
+                "attribute_name": "Max Vehicle Length",
+                "attribute_value": "32"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 53,
+                "attribute_name": "Max Num of Vehicles",
+                "attribute_value": "2"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 31,
+                "attribute_name": "Fire Pit",
+                "attribute_value": "Y"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 91,
+                "attribute_name": "Tent Pad",
+                "attribute_value": "Y"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 67,
+                "attribute_name": "Picnic Table",
+                "attribute_value": "Y"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 300,
+                "attribute_name": "Map X Coordinate",
+                "attribute_value": "577.459045410156"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 314,
+                "attribute_name": "Placed on Map",
+                "attribute_value": "1"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 301,
+                "attribute_name": "Map Y Coordinate",
+                "attribute_value": "589.896423339844"
+            }
+        ],
+        "campsite_id": 2654,
+        "campsite_loop_name": "LOOP B",
+        "campsite_occupancy": [
+            1,
+            6
+        ],
+        "campsite_site_name": "B009",
+        "campsite_type": "STANDARD NONELECTRIC",
+        "campsite_use_type": "Overnight",
+        "facility_id": 232465,
+        "facility_name": "Ohanapecosh Campground",
+        "permitted_equipment": [
+            {
+                "equipment_name": "Tent",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "RV",
+                "max_length": 32.0
+            },
+            {
+                "equipment_name": "Trailer",
+                "max_length": 27.0
+            },
+            {
+                "equipment_name": "Pickup Camper",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "Caravan/Camper Van",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "Car",
+                "max_length": 0.0
+            }
+        ],
+        "recreation_area": "Mount Rainier National Park, WA",
+        "recreation_area_id": 2835
+    },
+    {
+        "availability_status": "Available",
+        "booking_date": "2023-08-02T00:00:00",
+        "booking_end_date": "2023-08-03T00:00:00",
+        "booking_nights": 1,
+        "booking_url": "https://www.recreation.gov/camping/campsites/2654",
+        "campsite_attributes": [
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 77,
+                "attribute_name": "Shade",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 52,
+                "attribute_name": "Max Num of People",
+                "attribute_value": "6"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 79,
+                "attribute_name": "Site Access",
+                "attribute_value": "Drive-In"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 11,
+                "attribute_name": "Checkin Time",
+                "attribute_value": "12:00 PM"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 56,
+                "attribute_name": "Min Num of People",
+                "attribute_value": "1"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 9,
+                "attribute_name": "Campfire Allowed",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 12,
+                "attribute_name": "Checkout Time",
+                "attribute_value": "12:00 PM"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 65,
+                "attribute_name": "Pets Allowed",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 54,
+                "attribute_name": "Max Vehicle Length",
+                "attribute_value": "32"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 53,
+                "attribute_name": "Max Num of Vehicles",
+                "attribute_value": "2"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 26,
+                "attribute_name": "Driveway Surface",
+                "attribute_value": "Gravel"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Tent Pad Width",
+                "attribute_value": "10"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 23,
+                "attribute_name": "Driveway Entry",
+                "attribute_value": "Back-In"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Is Equipment Mandatory",
+                "attribute_value": "true"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Tent Pad Length",
+                "attribute_value": "10"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 25,
+                "attribute_name": "Driveway Length",
+                "attribute_value": "36"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 31,
+                "attribute_name": "Fire Pit",
+                "attribute_value": "Y"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 91,
+                "attribute_name": "Tent Pad",
+                "attribute_value": "Y"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 67,
+                "attribute_name": "Picnic Table",
+                "attribute_value": "Y"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 300,
+                "attribute_name": "Map X Coordinate",
+                "attribute_value": "577.459045410156"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 314,
+                "attribute_name": "Placed on Map",
+                "attribute_value": "1"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 301,
+                "attribute_name": "Map Y Coordinate",
+                "attribute_value": "589.896423339844"
+            }
+        ],
+        "campsite_id": 2654,
+        "campsite_loop_name": "LOOP B",
+        "campsite_occupancy": [
+            1,
+            6
+        ],
+        "campsite_site_name": "B009",
+        "campsite_type": "STANDARD NONELECTRIC",
+        "campsite_use_type": "Overnight",
+        "facility_id": 232465,
+        "facility_name": "Ohanapecosh Campground",
+        "permitted_equipment": [
+            {
+                "equipment_name": "Tent",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "RV",
+                "max_length": 32.0
+            },
+            {
+                "equipment_name": "Trailer",
+                "max_length": 27.0
+            },
+            {
+                "equipment_name": "Pickup Camper",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "Caravan/Camper Van",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "Car",
+                "max_length": 0.0
+            }
+        ],
+        "recreation_area": "Mount Rainier National Park, WA",
+        "recreation_area_id": 2835
+    },
+    {
+        "availability_status": "Available",
+        "booking_date": "2023-08-29T00:00:00",
+        "booking_end_date": "2023-08-30T00:00:00",
+        "booking_nights": 1,
+        "booking_url": "https://www.recreation.gov/camping/campsites/2655",
+        "campsite_attributes": [
             {
                 "attribute_category": "site_details",
                 "attribute_id": 11,
@@ -415,6 +949,36 @@
                 "attribute_value": "6"
             },
             {
+                "attribute_category": "site_details",
+                "attribute_id": 79,
+                "attribute_name": "Site Access",
+                "attribute_value": "Drive-In"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Is Equipment Mandatory",
+                "attribute_value": "true"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Tent Pad Length",
+                "attribute_value": "8"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 25,
+                "attribute_name": "Driveway Length",
+                "attribute_value": "28"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 54,
+                "attribute_name": "Max Vehicle Length",
+                "attribute_value": "25"
+            },
+            {
                 "attribute_category": "equipment_details",
                 "attribute_id": 53,
                 "attribute_name": "Max Num of Vehicles",
@@ -425,6 +989,150 @@
                 "attribute_id": 26,
                 "attribute_name": "Driveway Surface",
                 "attribute_value": "Gravel"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Tent Pad Width",
+                "attribute_value": "12"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 23,
+                "attribute_name": "Driveway Entry",
+                "attribute_value": "Back-In"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 301,
+                "attribute_name": "Map Y Coordinate",
+                "attribute_value": "581.371459960938"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 314,
+                "attribute_name": "Placed on Map",
+                "attribute_value": "1"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 67,
+                "attribute_name": "Picnic Table",
+                "attribute_value": "Y"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 31,
+                "attribute_name": "Fire Pit",
+                "attribute_value": "Y"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 300,
+                "attribute_name": "Map X Coordinate",
+                "attribute_value": "562.488403320313"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 91,
+                "attribute_name": "Tent Pad",
+                "attribute_value": "Y"
+            }
+        ],
+        "campsite_id": 2655,
+        "campsite_loop_name": "LOOP B",
+        "campsite_occupancy": [
+            1,
+            6
+        ],
+        "campsite_site_name": "B010",
+        "campsite_type": "STANDARD NONELECTRIC",
+        "campsite_use_type": "Overnight",
+        "facility_id": 232465,
+        "facility_name": "Ohanapecosh Campground",
+        "permitted_equipment": [
+            {
+                "equipment_name": "Tent",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "RV",
+                "max_length": 25.0
+            },
+            {
+                "equipment_name": "Trailer",
+                "max_length": 18.0
+            },
+            {
+                "equipment_name": "Pickup Camper",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "Caravan/Camper Van",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "Car",
+                "max_length": 0.0
+            }
+        ],
+        "recreation_area": "Mount Rainier National Park, WA",
+        "recreation_area_id": 2835
+    },
+    {
+        "availability_status": "Available",
+        "booking_date": "2023-08-15T00:00:00",
+        "booking_end_date": "2023-08-16T00:00:00",
+        "booking_nights": 1,
+        "booking_url": "https://www.recreation.gov/camping/campsites/2655",
+        "campsite_attributes": [
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 12,
+                "attribute_name": "Checkout Time",
+                "attribute_value": "12:00 PM"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 65,
+                "attribute_name": "Pets Allowed",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 77,
+                "attribute_name": "Shade",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 52,
+                "attribute_name": "Max Num of People",
+                "attribute_value": "6"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 79,
+                "attribute_name": "Site Access",
+                "attribute_value": "Drive-In"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 11,
+                "attribute_name": "Checkin Time",
+                "attribute_value": "12:00 PM"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 56,
+                "attribute_name": "Min Num of People",
+                "attribute_value": "1"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 9,
+                "attribute_name": "Campfire Allowed",
+                "attribute_value": "Yes"
             },
             {
                 "attribute_category": "equipment_details",
@@ -461,6 +1169,18 @@
                 "attribute_id": 54,
                 "attribute_name": "Max Vehicle Length",
                 "attribute_value": "25"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 53,
+                "attribute_name": "Max Num of Vehicles",
+                "attribute_value": "2"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 26,
+                "attribute_name": "Driveway Surface",
+                "attribute_value": "Gravel"
             },
             {
                 "attribute_category": "amenities",
@@ -721,10 +1441,370 @@
     },
     {
         "availability_status": "Available",
-        "booking_date": "2023-08-15T00:00:00",
-        "booking_end_date": "2023-08-16T00:00:00",
+        "booking_date": "2023-07-29T00:00:00",
+        "booking_end_date": "2023-07-30T00:00:00",
         "booking_nights": 1,
         "booking_url": "https://www.recreation.gov/camping/campsites/2655",
+        "campsite_attributes": [
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 79,
+                "attribute_name": "Site Access",
+                "attribute_value": "Drive-In"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 11,
+                "attribute_name": "Checkin Time",
+                "attribute_value": "12:00 PM"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 56,
+                "attribute_name": "Min Num of People",
+                "attribute_value": "1"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 9,
+                "attribute_name": "Campfire Allowed",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 12,
+                "attribute_name": "Checkout Time",
+                "attribute_value": "12:00 PM"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 65,
+                "attribute_name": "Pets Allowed",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 77,
+                "attribute_name": "Shade",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 52,
+                "attribute_name": "Max Num of People",
+                "attribute_value": "6"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 53,
+                "attribute_name": "Max Num of Vehicles",
+                "attribute_value": "2"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 26,
+                "attribute_name": "Driveway Surface",
+                "attribute_value": "Gravel"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Tent Pad Width",
+                "attribute_value": "12"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 23,
+                "attribute_name": "Driveway Entry",
+                "attribute_value": "Back-In"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Is Equipment Mandatory",
+                "attribute_value": "true"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Tent Pad Length",
+                "attribute_value": "8"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 25,
+                "attribute_name": "Driveway Length",
+                "attribute_value": "28"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 54,
+                "attribute_name": "Max Vehicle Length",
+                "attribute_value": "25"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 301,
+                "attribute_name": "Map Y Coordinate",
+                "attribute_value": "581.371459960938"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 314,
+                "attribute_name": "Placed on Map",
+                "attribute_value": "1"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 67,
+                "attribute_name": "Picnic Table",
+                "attribute_value": "Y"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 31,
+                "attribute_name": "Fire Pit",
+                "attribute_value": "Y"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 300,
+                "attribute_name": "Map X Coordinate",
+                "attribute_value": "562.488403320313"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 91,
+                "attribute_name": "Tent Pad",
+                "attribute_value": "Y"
+            }
+        ],
+        "campsite_id": 2655,
+        "campsite_loop_name": "LOOP B",
+        "campsite_occupancy": [
+            1,
+            6
+        ],
+        "campsite_site_name": "B010",
+        "campsite_type": "STANDARD NONELECTRIC",
+        "campsite_use_type": "Overnight",
+        "facility_id": 232465,
+        "facility_name": "Ohanapecosh Campground",
+        "permitted_equipment": [
+            {
+                "equipment_name": "Tent",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "RV",
+                "max_length": 25.0
+            },
+            {
+                "equipment_name": "Trailer",
+                "max_length": 18.0
+            },
+            {
+                "equipment_name": "Pickup Camper",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "Caravan/Camper Van",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "Car",
+                "max_length": 0.0
+            }
+        ],
+        "recreation_area": "Mount Rainier National Park, WA",
+        "recreation_area_id": 2835
+    },
+    {
+        "availability_status": "Available",
+        "booking_date": "2023-09-07T00:00:00",
+        "booking_end_date": "2023-09-08T00:00:00",
+        "booking_nights": 1,
+        "booking_url": "https://www.recreation.gov/camping/campsites/2654",
+        "campsite_attributes": [
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 12,
+                "attribute_name": "Checkout Time",
+                "attribute_value": "12:00 PM"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 65,
+                "attribute_name": "Pets Allowed",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 77,
+                "attribute_name": "Shade",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 52,
+                "attribute_name": "Max Num of People",
+                "attribute_value": "6"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 79,
+                "attribute_name": "Site Access",
+                "attribute_value": "Drive-In"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 11,
+                "attribute_name": "Checkin Time",
+                "attribute_value": "12:00 PM"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 56,
+                "attribute_name": "Min Num of People",
+                "attribute_value": "1"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 9,
+                "attribute_name": "Campfire Allowed",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 26,
+                "attribute_name": "Driveway Surface",
+                "attribute_value": "Gravel"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Tent Pad Width",
+                "attribute_value": "10"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 23,
+                "attribute_name": "Driveway Entry",
+                "attribute_value": "Back-In"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Is Equipment Mandatory",
+                "attribute_value": "true"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Tent Pad Length",
+                "attribute_value": "10"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 25,
+                "attribute_name": "Driveway Length",
+                "attribute_value": "36"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 54,
+                "attribute_name": "Max Vehicle Length",
+                "attribute_value": "32"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 53,
+                "attribute_name": "Max Num of Vehicles",
+                "attribute_value": "2"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 31,
+                "attribute_name": "Fire Pit",
+                "attribute_value": "Y"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 91,
+                "attribute_name": "Tent Pad",
+                "attribute_value": "Y"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 67,
+                "attribute_name": "Picnic Table",
+                "attribute_value": "Y"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 300,
+                "attribute_name": "Map X Coordinate",
+                "attribute_value": "577.459045410156"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 314,
+                "attribute_name": "Placed on Map",
+                "attribute_value": "1"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 301,
+                "attribute_name": "Map Y Coordinate",
+                "attribute_value": "589.896423339844"
+            }
+        ],
+        "campsite_id": 2654,
+        "campsite_loop_name": "LOOP B",
+        "campsite_occupancy": [
+            1,
+            6
+        ],
+        "campsite_site_name": "B009",
+        "campsite_type": "STANDARD NONELECTRIC",
+        "campsite_use_type": "Overnight",
+        "facility_id": 232465,
+        "facility_name": "Ohanapecosh Campground",
+        "permitted_equipment": [
+            {
+                "equipment_name": "Tent",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "RV",
+                "max_length": 32.0
+            },
+            {
+                "equipment_name": "Trailer",
+                "max_length": 27.0
+            },
+            {
+                "equipment_name": "Pickup Camper",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "Caravan/Camper Van",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "Car",
+                "max_length": 0.0
+            }
+        ],
+        "recreation_area": "Mount Rainier National Park, WA",
+        "recreation_area_id": 2835
+    },
+    {
+        "availability_status": "Available",
+        "booking_date": "2023-07-29T00:00:00",
+        "booking_end_date": "2023-07-30T00:00:00",
+        "booking_nights": 1,
+        "booking_url": "https://www.recreation.gov/camping/campsites/2654",
         "campsite_attributes": [
             {
                 "attribute_category": "site_details",
@@ -778,6 +1858,738 @@
                 "attribute_category": "equipment_details",
                 "attribute_id": 0,
                 "attribute_name": "Tent Pad Width",
+                "attribute_value": "10"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 23,
+                "attribute_name": "Driveway Entry",
+                "attribute_value": "Back-In"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Is Equipment Mandatory",
+                "attribute_value": "true"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Tent Pad Length",
+                "attribute_value": "10"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 25,
+                "attribute_name": "Driveway Length",
+                "attribute_value": "36"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 54,
+                "attribute_name": "Max Vehicle Length",
+                "attribute_value": "32"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 53,
+                "attribute_name": "Max Num of Vehicles",
+                "attribute_value": "2"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 26,
+                "attribute_name": "Driveway Surface",
+                "attribute_value": "Gravel"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 31,
+                "attribute_name": "Fire Pit",
+                "attribute_value": "Y"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 91,
+                "attribute_name": "Tent Pad",
+                "attribute_value": "Y"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 67,
+                "attribute_name": "Picnic Table",
+                "attribute_value": "Y"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 300,
+                "attribute_name": "Map X Coordinate",
+                "attribute_value": "577.459045410156"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 314,
+                "attribute_name": "Placed on Map",
+                "attribute_value": "1"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 301,
+                "attribute_name": "Map Y Coordinate",
+                "attribute_value": "589.896423339844"
+            }
+        ],
+        "campsite_id": 2654,
+        "campsite_loop_name": "LOOP B",
+        "campsite_occupancy": [
+            1,
+            6
+        ],
+        "campsite_site_name": "B009",
+        "campsite_type": "STANDARD NONELECTRIC",
+        "campsite_use_type": "Overnight",
+        "facility_id": 232465,
+        "facility_name": "Ohanapecosh Campground",
+        "permitted_equipment": [
+            {
+                "equipment_name": "Tent",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "RV",
+                "max_length": 32.0
+            },
+            {
+                "equipment_name": "Trailer",
+                "max_length": 27.0
+            },
+            {
+                "equipment_name": "Pickup Camper",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "Caravan/Camper Van",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "Car",
+                "max_length": 0.0
+            }
+        ],
+        "recreation_area": "Mount Rainier National Park, WA",
+        "recreation_area_id": 2835
+    },
+    {
+        "availability_status": "Available",
+        "booking_date": "2023-08-01T00:00:00",
+        "booking_end_date": "2023-08-02T00:00:00",
+        "booking_nights": 1,
+        "booking_url": "https://www.recreation.gov/camping/campsites/2654",
+        "campsite_attributes": [
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 77,
+                "attribute_name": "Shade",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 52,
+                "attribute_name": "Max Num of People",
+                "attribute_value": "6"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 79,
+                "attribute_name": "Site Access",
+                "attribute_value": "Drive-In"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 11,
+                "attribute_name": "Checkin Time",
+                "attribute_value": "12:00 PM"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 56,
+                "attribute_name": "Min Num of People",
+                "attribute_value": "1"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 9,
+                "attribute_name": "Campfire Allowed",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 12,
+                "attribute_name": "Checkout Time",
+                "attribute_value": "12:00 PM"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 65,
+                "attribute_name": "Pets Allowed",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 54,
+                "attribute_name": "Max Vehicle Length",
+                "attribute_value": "32"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 53,
+                "attribute_name": "Max Num of Vehicles",
+                "attribute_value": "2"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 26,
+                "attribute_name": "Driveway Surface",
+                "attribute_value": "Gravel"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Tent Pad Width",
+                "attribute_value": "10"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 23,
+                "attribute_name": "Driveway Entry",
+                "attribute_value": "Back-In"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Is Equipment Mandatory",
+                "attribute_value": "true"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Tent Pad Length",
+                "attribute_value": "10"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 25,
+                "attribute_name": "Driveway Length",
+                "attribute_value": "36"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 31,
+                "attribute_name": "Fire Pit",
+                "attribute_value": "Y"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 91,
+                "attribute_name": "Tent Pad",
+                "attribute_value": "Y"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 67,
+                "attribute_name": "Picnic Table",
+                "attribute_value": "Y"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 300,
+                "attribute_name": "Map X Coordinate",
+                "attribute_value": "577.459045410156"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 314,
+                "attribute_name": "Placed on Map",
+                "attribute_value": "1"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 301,
+                "attribute_name": "Map Y Coordinate",
+                "attribute_value": "589.896423339844"
+            }
+        ],
+        "campsite_id": 2654,
+        "campsite_loop_name": "LOOP B",
+        "campsite_occupancy": [
+            1,
+            6
+        ],
+        "campsite_site_name": "B009",
+        "campsite_type": "STANDARD NONELECTRIC",
+        "campsite_use_type": "Overnight",
+        "facility_id": 232465,
+        "facility_name": "Ohanapecosh Campground",
+        "permitted_equipment": [
+            {
+                "equipment_name": "Tent",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "RV",
+                "max_length": 32.0
+            },
+            {
+                "equipment_name": "Trailer",
+                "max_length": 27.0
+            },
+            {
+                "equipment_name": "Pickup Camper",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "Caravan/Camper Van",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "Car",
+                "max_length": 0.0
+            }
+        ],
+        "recreation_area": "Mount Rainier National Park, WA",
+        "recreation_area_id": 2835
+    },
+    {
+        "availability_status": "Available",
+        "booking_date": "2023-08-10T00:00:00",
+        "booking_end_date": "2023-08-11T00:00:00",
+        "booking_nights": 1,
+        "booking_url": "https://www.recreation.gov/camping/campsites/2655",
+        "campsite_attributes": [
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 52,
+                "attribute_name": "Max Num of People",
+                "attribute_value": "6"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 79,
+                "attribute_name": "Site Access",
+                "attribute_value": "Drive-In"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 11,
+                "attribute_name": "Checkin Time",
+                "attribute_value": "12:00 PM"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 56,
+                "attribute_name": "Min Num of People",
+                "attribute_value": "1"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 9,
+                "attribute_name": "Campfire Allowed",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 12,
+                "attribute_name": "Checkout Time",
+                "attribute_value": "12:00 PM"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 65,
+                "attribute_name": "Pets Allowed",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 77,
+                "attribute_name": "Shade",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Tent Pad Length",
+                "attribute_value": "8"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 25,
+                "attribute_name": "Driveway Length",
+                "attribute_value": "28"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 54,
+                "attribute_name": "Max Vehicle Length",
+                "attribute_value": "25"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 53,
+                "attribute_name": "Max Num of Vehicles",
+                "attribute_value": "2"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 26,
+                "attribute_name": "Driveway Surface",
+                "attribute_value": "Gravel"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Tent Pad Width",
+                "attribute_value": "12"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 23,
+                "attribute_name": "Driveway Entry",
+                "attribute_value": "Back-In"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Is Equipment Mandatory",
+                "attribute_value": "true"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 301,
+                "attribute_name": "Map Y Coordinate",
+                "attribute_value": "581.371459960938"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 314,
+                "attribute_name": "Placed on Map",
+                "attribute_value": "1"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 67,
+                "attribute_name": "Picnic Table",
+                "attribute_value": "Y"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 31,
+                "attribute_name": "Fire Pit",
+                "attribute_value": "Y"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 300,
+                "attribute_name": "Map X Coordinate",
+                "attribute_value": "562.488403320313"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 91,
+                "attribute_name": "Tent Pad",
+                "attribute_value": "Y"
+            }
+        ],
+        "campsite_id": 2655,
+        "campsite_loop_name": "LOOP B",
+        "campsite_occupancy": [
+            1,
+            6
+        ],
+        "campsite_site_name": "B010",
+        "campsite_type": "STANDARD NONELECTRIC",
+        "campsite_use_type": "Overnight",
+        "facility_id": 232465,
+        "facility_name": "Ohanapecosh Campground",
+        "permitted_equipment": [
+            {
+                "equipment_name": "Tent",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "RV",
+                "max_length": 25.0
+            },
+            {
+                "equipment_name": "Trailer",
+                "max_length": 18.0
+            },
+            {
+                "equipment_name": "Pickup Camper",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "Caravan/Camper Van",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "Car",
+                "max_length": 0.0
+            }
+        ],
+        "recreation_area": "Mount Rainier National Park, WA",
+        "recreation_area_id": 2835
+    },
+    {
+        "availability_status": "Available",
+        "booking_date": "2023-09-27T00:00:00",
+        "booking_end_date": "2023-09-28T00:00:00",
+        "booking_nights": 1,
+        "booking_url": "https://www.recreation.gov/camping/campsites/2655",
+        "campsite_attributes": [
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 77,
+                "attribute_name": "Shade",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 52,
+                "attribute_name": "Max Num of People",
+                "attribute_value": "6"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 79,
+                "attribute_name": "Site Access",
+                "attribute_value": "Drive-In"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 11,
+                "attribute_name": "Checkin Time",
+                "attribute_value": "12:00 PM"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 56,
+                "attribute_name": "Min Num of People",
+                "attribute_value": "1"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 9,
+                "attribute_name": "Campfire Allowed",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 12,
+                "attribute_name": "Checkout Time",
+                "attribute_value": "12:00 PM"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 65,
+                "attribute_name": "Pets Allowed",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 25,
+                "attribute_name": "Driveway Length",
+                "attribute_value": "28"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 54,
+                "attribute_name": "Max Vehicle Length",
+                "attribute_value": "25"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 53,
+                "attribute_name": "Max Num of Vehicles",
+                "attribute_value": "2"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 26,
+                "attribute_name": "Driveway Surface",
+                "attribute_value": "Gravel"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Tent Pad Width",
+                "attribute_value": "12"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 23,
+                "attribute_name": "Driveway Entry",
+                "attribute_value": "Back-In"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Is Equipment Mandatory",
+                "attribute_value": "true"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Tent Pad Length",
+                "attribute_value": "8"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 301,
+                "attribute_name": "Map Y Coordinate",
+                "attribute_value": "581.371459960938"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 314,
+                "attribute_name": "Placed on Map",
+                "attribute_value": "1"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 67,
+                "attribute_name": "Picnic Table",
+                "attribute_value": "Y"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 31,
+                "attribute_name": "Fire Pit",
+                "attribute_value": "Y"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 300,
+                "attribute_name": "Map X Coordinate",
+                "attribute_value": "562.488403320313"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 91,
+                "attribute_name": "Tent Pad",
+                "attribute_value": "Y"
+            }
+        ],
+        "campsite_id": 2655,
+        "campsite_loop_name": "LOOP B",
+        "campsite_occupancy": [
+            1,
+            6
+        ],
+        "campsite_site_name": "B010",
+        "campsite_type": "STANDARD NONELECTRIC",
+        "campsite_use_type": "Overnight",
+        "facility_id": 232465,
+        "facility_name": "Ohanapecosh Campground",
+        "permitted_equipment": [
+            {
+                "equipment_name": "Tent",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "RV",
+                "max_length": 25.0
+            },
+            {
+                "equipment_name": "Trailer",
+                "max_length": 18.0
+            },
+            {
+                "equipment_name": "Pickup Camper",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "Caravan/Camper Van",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "Car",
+                "max_length": 0.0
+            }
+        ],
+        "recreation_area": "Mount Rainier National Park, WA",
+        "recreation_area_id": 2835
+    },
+    {
+        "availability_status": "Available",
+        "booking_date": "2023-08-01T00:00:00",
+        "booking_end_date": "2023-08-02T00:00:00",
+        "booking_nights": 1,
+        "booking_url": "https://www.recreation.gov/camping/campsites/2655",
+        "campsite_attributes": [
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 77,
+                "attribute_name": "Shade",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 52,
+                "attribute_name": "Max Num of People",
+                "attribute_value": "6"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 79,
+                "attribute_name": "Site Access",
+                "attribute_value": "Drive-In"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 11,
+                "attribute_name": "Checkin Time",
+                "attribute_value": "12:00 PM"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 56,
+                "attribute_name": "Min Num of People",
+                "attribute_value": "1"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 9,
+                "attribute_name": "Campfire Allowed",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 12,
+                "attribute_name": "Checkout Time",
+                "attribute_value": "12:00 PM"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 65,
+                "attribute_name": "Pets Allowed",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 53,
+                "attribute_name": "Max Num of Vehicles",
+                "attribute_value": "2"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 26,
+                "attribute_name": "Driveway Surface",
+                "attribute_value": "Gravel"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Tent Pad Width",
                 "attribute_value": "12"
             },
             {
@@ -811,6 +2623,138 @@
                 "attribute_value": "25"
             },
             {
+                "attribute_category": "amenities",
+                "attribute_id": 301,
+                "attribute_name": "Map Y Coordinate",
+                "attribute_value": "581.371459960938"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 314,
+                "attribute_name": "Placed on Map",
+                "attribute_value": "1"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 67,
+                "attribute_name": "Picnic Table",
+                "attribute_value": "Y"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 31,
+                "attribute_name": "Fire Pit",
+                "attribute_value": "Y"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 300,
+                "attribute_name": "Map X Coordinate",
+                "attribute_value": "562.488403320313"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 91,
+                "attribute_name": "Tent Pad",
+                "attribute_value": "Y"
+            }
+        ],
+        "campsite_id": 2655,
+        "campsite_loop_name": "LOOP B",
+        "campsite_occupancy": [
+            1,
+            6
+        ],
+        "campsite_site_name": "B010",
+        "campsite_type": "STANDARD NONELECTRIC",
+        "campsite_use_type": "Overnight",
+        "facility_id": 232465,
+        "facility_name": "Ohanapecosh Campground",
+        "permitted_equipment": [
+            {
+                "equipment_name": "Tent",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "RV",
+                "max_length": 25.0
+            },
+            {
+                "equipment_name": "Trailer",
+                "max_length": 18.0
+            },
+            {
+                "equipment_name": "Pickup Camper",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "Caravan/Camper Van",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "Car",
+                "max_length": 0.0
+            }
+        ],
+        "recreation_area": "Mount Rainier National Park, WA",
+        "recreation_area_id": 2835
+    },
+    {
+        "availability_status": "Available",
+        "booking_date": "2023-08-02T00:00:00",
+        "booking_end_date": "2023-08-03T00:00:00",
+        "booking_nights": 1,
+        "booking_url": "https://www.recreation.gov/camping/campsites/2655",
+        "campsite_attributes": [
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 77,
+                "attribute_name": "Shade",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 52,
+                "attribute_name": "Max Num of People",
+                "attribute_value": "6"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 79,
+                "attribute_name": "Site Access",
+                "attribute_value": "Drive-In"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 11,
+                "attribute_name": "Checkin Time",
+                "attribute_value": "12:00 PM"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 56,
+                "attribute_name": "Min Num of People",
+                "attribute_value": "1"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 9,
+                "attribute_name": "Campfire Allowed",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 12,
+                "attribute_name": "Checkout Time",
+                "attribute_value": "12:00 PM"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 65,
+                "attribute_name": "Pets Allowed",
+                "attribute_value": "Yes"
+            },
+            {
                 "attribute_category": "equipment_details",
                 "attribute_id": 53,
                 "attribute_name": "Max Num of Vehicles",
@@ -821,6 +2765,222 @@
                 "attribute_id": 26,
                 "attribute_name": "Driveway Surface",
                 "attribute_value": "Gravel"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Tent Pad Width",
+                "attribute_value": "12"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 23,
+                "attribute_name": "Driveway Entry",
+                "attribute_value": "Back-In"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Is Equipment Mandatory",
+                "attribute_value": "true"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Tent Pad Length",
+                "attribute_value": "8"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 25,
+                "attribute_name": "Driveway Length",
+                "attribute_value": "28"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 54,
+                "attribute_name": "Max Vehicle Length",
+                "attribute_value": "25"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 301,
+                "attribute_name": "Map Y Coordinate",
+                "attribute_value": "581.371459960938"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 314,
+                "attribute_name": "Placed on Map",
+                "attribute_value": "1"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 67,
+                "attribute_name": "Picnic Table",
+                "attribute_value": "Y"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 31,
+                "attribute_name": "Fire Pit",
+                "attribute_value": "Y"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 300,
+                "attribute_name": "Map X Coordinate",
+                "attribute_value": "562.488403320313"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 91,
+                "attribute_name": "Tent Pad",
+                "attribute_value": "Y"
+            }
+        ],
+        "campsite_id": 2655,
+        "campsite_loop_name": "LOOP B",
+        "campsite_occupancy": [
+            1,
+            6
+        ],
+        "campsite_site_name": "B010",
+        "campsite_type": "STANDARD NONELECTRIC",
+        "campsite_use_type": "Overnight",
+        "facility_id": 232465,
+        "facility_name": "Ohanapecosh Campground",
+        "permitted_equipment": [
+            {
+                "equipment_name": "Tent",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "RV",
+                "max_length": 25.0
+            },
+            {
+                "equipment_name": "Trailer",
+                "max_length": 18.0
+            },
+            {
+                "equipment_name": "Pickup Camper",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "Caravan/Camper Van",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "Car",
+                "max_length": 0.0
+            }
+        ],
+        "recreation_area": "Mount Rainier National Park, WA",
+        "recreation_area_id": 2835
+    },
+    {
+        "availability_status": "Available",
+        "booking_date": "2023-07-30T00:00:00",
+        "booking_end_date": "2023-07-31T00:00:00",
+        "booking_nights": 1,
+        "booking_url": "https://www.recreation.gov/camping/campsites/2655",
+        "campsite_attributes": [
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 79,
+                "attribute_name": "Site Access",
+                "attribute_value": "Drive-In"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 11,
+                "attribute_name": "Checkin Time",
+                "attribute_value": "12:00 PM"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 56,
+                "attribute_name": "Min Num of People",
+                "attribute_value": "1"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 9,
+                "attribute_name": "Campfire Allowed",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 12,
+                "attribute_name": "Checkout Time",
+                "attribute_value": "12:00 PM"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 65,
+                "attribute_name": "Pets Allowed",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 77,
+                "attribute_name": "Shade",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 52,
+                "attribute_name": "Max Num of People",
+                "attribute_value": "6"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 53,
+                "attribute_name": "Max Num of Vehicles",
+                "attribute_value": "2"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 26,
+                "attribute_name": "Driveway Surface",
+                "attribute_value": "Gravel"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Tent Pad Width",
+                "attribute_value": "12"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 23,
+                "attribute_name": "Driveway Entry",
+                "attribute_value": "Back-In"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Is Equipment Mandatory",
+                "attribute_value": "true"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Tent Pad Length",
+                "attribute_value": "8"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 25,
+                "attribute_name": "Driveway Length",
+                "attribute_value": "28"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 54,
+                "attribute_name": "Max Vehicle Length",
+                "attribute_value": "25"
             },
             {
                 "attribute_category": "amenities",
@@ -1261,29 +3421,11 @@
     },
     {
         "availability_status": "Available",
-        "booking_date": "2023-08-01T00:00:00",
-        "booking_end_date": "2023-08-02T00:00:00",
+        "booking_date": "2023-08-28T00:00:00",
+        "booking_end_date": "2023-08-29T00:00:00",
         "booking_nights": 1,
         "booking_url": "https://www.recreation.gov/camping/campsites/2655",
         "campsite_attributes": [
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 77,
-                "attribute_name": "Shade",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 52,
-                "attribute_name": "Max Num of People",
-                "attribute_value": "6"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 79,
-                "attribute_name": "Site Access",
-                "attribute_value": "Drive-In"
-            },
             {
                 "attribute_category": "site_details",
                 "attribute_id": 11,
@@ -1315,28 +3457,22 @@
                 "attribute_value": "Yes"
             },
             {
-                "attribute_category": "equipment_details",
-                "attribute_id": 53,
-                "attribute_name": "Max Num of Vehicles",
-                "attribute_value": "2"
+                "attribute_category": "site_details",
+                "attribute_id": 77,
+                "attribute_name": "Shade",
+                "attribute_value": "Yes"
             },
             {
-                "attribute_category": "equipment_details",
-                "attribute_id": 26,
-                "attribute_name": "Driveway Surface",
-                "attribute_value": "Gravel"
+                "attribute_category": "site_details",
+                "attribute_id": 52,
+                "attribute_name": "Max Num of People",
+                "attribute_value": "6"
             },
             {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Tent Pad Width",
-                "attribute_value": "12"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 23,
-                "attribute_name": "Driveway Entry",
-                "attribute_value": "Back-In"
+                "attribute_category": "site_details",
+                "attribute_id": 79,
+                "attribute_name": "Site Access",
+                "attribute_value": "Drive-In"
             },
             {
                 "attribute_category": "equipment_details",
@@ -1361,6 +3497,30 @@
                 "attribute_id": 54,
                 "attribute_name": "Max Vehicle Length",
                 "attribute_value": "25"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 53,
+                "attribute_name": "Max Num of Vehicles",
+                "attribute_value": "2"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 26,
+                "attribute_name": "Driveway Surface",
+                "attribute_value": "Gravel"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Tent Pad Width",
+                "attribute_value": "12"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 23,
+                "attribute_name": "Driveway Entry",
+                "attribute_value": "Back-In"
             },
             {
                 "attribute_category": "amenities",
@@ -1441,11 +3601,23 @@
     },
     {
         "availability_status": "Available",
-        "booking_date": "2023-09-27T00:00:00",
-        "booking_end_date": "2023-09-28T00:00:00",
+        "booking_date": "2023-08-14T00:00:00",
+        "booking_end_date": "2023-08-15T00:00:00",
         "booking_nights": 1,
         "booking_url": "https://www.recreation.gov/camping/campsites/2655",
         "campsite_attributes": [
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 12,
+                "attribute_name": "Checkout Time",
+                "attribute_value": "12:00 PM"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 65,
+                "attribute_name": "Pets Allowed",
+                "attribute_value": "Yes"
+            },
             {
                 "attribute_category": "site_details",
                 "attribute_id": 77,
@@ -1483,42 +3655,6 @@
                 "attribute_value": "Yes"
             },
             {
-                "attribute_category": "site_details",
-                "attribute_id": 12,
-                "attribute_name": "Checkout Time",
-                "attribute_value": "12:00 PM"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 65,
-                "attribute_name": "Pets Allowed",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 25,
-                "attribute_name": "Driveway Length",
-                "attribute_value": "28"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 54,
-                "attribute_name": "Max Vehicle Length",
-                "attribute_value": "25"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 53,
-                "attribute_name": "Max Num of Vehicles",
-                "attribute_value": "2"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 26,
-                "attribute_name": "Driveway Surface",
-                "attribute_value": "Gravel"
-            },
-            {
                 "attribute_category": "equipment_details",
                 "attribute_id": 0,
                 "attribute_name": "Tent Pad Width",
@@ -1535,144 +3671,6 @@
                 "attribute_id": 0,
                 "attribute_name": "Is Equipment Mandatory",
                 "attribute_value": "true"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Tent Pad Length",
-                "attribute_value": "8"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 301,
-                "attribute_name": "Map Y Coordinate",
-                "attribute_value": "581.371459960938"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 314,
-                "attribute_name": "Placed on Map",
-                "attribute_value": "1"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 67,
-                "attribute_name": "Picnic Table",
-                "attribute_value": "Y"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 31,
-                "attribute_name": "Fire Pit",
-                "attribute_value": "Y"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 300,
-                "attribute_name": "Map X Coordinate",
-                "attribute_value": "562.488403320313"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 91,
-                "attribute_name": "Tent Pad",
-                "attribute_value": "Y"
-            }
-        ],
-        "campsite_id": 2655,
-        "campsite_loop_name": "LOOP B",
-        "campsite_occupancy": [
-            1,
-            6
-        ],
-        "campsite_site_name": "B010",
-        "campsite_type": "STANDARD NONELECTRIC",
-        "campsite_use_type": "Overnight",
-        "facility_id": 232465,
-        "facility_name": "Ohanapecosh Campground",
-        "permitted_equipment": [
-            {
-                "equipment_name": "Tent",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "RV",
-                "max_length": 25.0
-            },
-            {
-                "equipment_name": "Trailer",
-                "max_length": 18.0
-            },
-            {
-                "equipment_name": "Pickup Camper",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "Caravan/Camper Van",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "Car",
-                "max_length": 0.0
-            }
-        ],
-        "recreation_area": "Mount Rainier National Park, WA",
-        "recreation_area_id": 2835
-    },
-    {
-        "availability_status": "Available",
-        "booking_date": "2023-08-09T00:00:00",
-        "booking_end_date": "2023-08-10T00:00:00",
-        "booking_nights": 1,
-        "booking_url": "https://www.recreation.gov/camping/campsites/2655",
-        "campsite_attributes": [
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 52,
-                "attribute_name": "Max Num of People",
-                "attribute_value": "6"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 79,
-                "attribute_name": "Site Access",
-                "attribute_value": "Drive-In"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 11,
-                "attribute_name": "Checkin Time",
-                "attribute_value": "12:00 PM"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 56,
-                "attribute_name": "Min Num of People",
-                "attribute_value": "1"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 9,
-                "attribute_name": "Campfire Allowed",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 12,
-                "attribute_name": "Checkout Time",
-                "attribute_value": "12:00 PM"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 65,
-                "attribute_name": "Pets Allowed",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 77,
-                "attribute_name": "Shade",
-                "attribute_value": "Yes"
             },
             {
                 "attribute_category": "equipment_details",
@@ -1703,24 +3701,6 @@
                 "attribute_id": 26,
                 "attribute_name": "Driveway Surface",
                 "attribute_value": "Gravel"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Tent Pad Width",
-                "attribute_value": "12"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 23,
-                "attribute_name": "Driveway Entry",
-                "attribute_value": "Back-In"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Is Equipment Mandatory",
-                "attribute_value": "true"
             },
             {
                 "attribute_category": "amenities",
@@ -1981,11 +3961,35 @@
     },
     {
         "availability_status": "Available",
-        "booking_date": "2023-08-02T00:00:00",
-        "booking_end_date": "2023-08-03T00:00:00",
+        "booking_date": "2023-07-26T00:00:00",
+        "booking_end_date": "2023-07-27T00:00:00",
         "booking_nights": 1,
         "booking_url": "https://www.recreation.gov/camping/campsites/2654",
         "campsite_attributes": [
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 56,
+                "attribute_name": "Min Num of People",
+                "attribute_value": "1"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 9,
+                "attribute_name": "Campfire Allowed",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 12,
+                "attribute_name": "Checkout Time",
+                "attribute_value": "12:00 PM"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 65,
+                "attribute_name": "Pets Allowed",
+                "attribute_value": "Yes"
+            },
             {
                 "attribute_category": "site_details",
                 "attribute_id": 77,
@@ -2011,28 +4015,22 @@
                 "attribute_value": "12:00 PM"
             },
             {
-                "attribute_category": "site_details",
-                "attribute_id": 56,
-                "attribute_name": "Min Num of People",
-                "attribute_value": "1"
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Is Equipment Mandatory",
+                "attribute_value": "true"
             },
             {
-                "attribute_category": "site_details",
-                "attribute_id": 9,
-                "attribute_name": "Campfire Allowed",
-                "attribute_value": "Yes"
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Tent Pad Length",
+                "attribute_value": "10"
             },
             {
-                "attribute_category": "site_details",
-                "attribute_id": 12,
-                "attribute_name": "Checkout Time",
-                "attribute_value": "12:00 PM"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 65,
-                "attribute_name": "Pets Allowed",
-                "attribute_value": "Yes"
+                "attribute_category": "equipment_details",
+                "attribute_id": 25,
+                "attribute_name": "Driveway Length",
+                "attribute_value": "36"
             },
             {
                 "attribute_category": "equipment_details",
@@ -2063,24 +4061,6 @@
                 "attribute_id": 23,
                 "attribute_name": "Driveway Entry",
                 "attribute_value": "Back-In"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Is Equipment Mandatory",
-                "attribute_value": "true"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Tent Pad Length",
-                "attribute_value": "10"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 25,
-                "attribute_name": "Driveway Length",
-                "attribute_value": "36"
             },
             {
                 "attribute_category": "amenities",
@@ -2341,1808 +4321,8 @@
     },
     {
         "availability_status": "Available",
-        "booking_date": "2023-08-10T00:00:00",
-        "booking_end_date": "2023-08-11T00:00:00",
-        "booking_nights": 1,
-        "booking_url": "https://www.recreation.gov/camping/campsites/2655",
-        "campsite_attributes": [
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 52,
-                "attribute_name": "Max Num of People",
-                "attribute_value": "6"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 79,
-                "attribute_name": "Site Access",
-                "attribute_value": "Drive-In"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 11,
-                "attribute_name": "Checkin Time",
-                "attribute_value": "12:00 PM"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 56,
-                "attribute_name": "Min Num of People",
-                "attribute_value": "1"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 9,
-                "attribute_name": "Campfire Allowed",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 12,
-                "attribute_name": "Checkout Time",
-                "attribute_value": "12:00 PM"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 65,
-                "attribute_name": "Pets Allowed",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 77,
-                "attribute_name": "Shade",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Tent Pad Length",
-                "attribute_value": "8"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 25,
-                "attribute_name": "Driveway Length",
-                "attribute_value": "28"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 54,
-                "attribute_name": "Max Vehicle Length",
-                "attribute_value": "25"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 53,
-                "attribute_name": "Max Num of Vehicles",
-                "attribute_value": "2"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 26,
-                "attribute_name": "Driveway Surface",
-                "attribute_value": "Gravel"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Tent Pad Width",
-                "attribute_value": "12"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 23,
-                "attribute_name": "Driveway Entry",
-                "attribute_value": "Back-In"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Is Equipment Mandatory",
-                "attribute_value": "true"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 301,
-                "attribute_name": "Map Y Coordinate",
-                "attribute_value": "581.371459960938"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 314,
-                "attribute_name": "Placed on Map",
-                "attribute_value": "1"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 67,
-                "attribute_name": "Picnic Table",
-                "attribute_value": "Y"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 31,
-                "attribute_name": "Fire Pit",
-                "attribute_value": "Y"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 300,
-                "attribute_name": "Map X Coordinate",
-                "attribute_value": "562.488403320313"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 91,
-                "attribute_name": "Tent Pad",
-                "attribute_value": "Y"
-            }
-        ],
-        "campsite_id": 2655,
-        "campsite_loop_name": "LOOP B",
-        "campsite_occupancy": [
-            1,
-            6
-        ],
-        "campsite_site_name": "B010",
-        "campsite_type": "STANDARD NONELECTRIC",
-        "campsite_use_type": "Overnight",
-        "facility_id": 232465,
-        "facility_name": "Ohanapecosh Campground",
-        "permitted_equipment": [
-            {
-                "equipment_name": "Tent",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "RV",
-                "max_length": 25.0
-            },
-            {
-                "equipment_name": "Trailer",
-                "max_length": 18.0
-            },
-            {
-                "equipment_name": "Pickup Camper",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "Caravan/Camper Van",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "Car",
-                "max_length": 0.0
-            }
-        ],
-        "recreation_area": "Mount Rainier National Park, WA",
-        "recreation_area_id": 2835
-    },
-    {
-        "availability_status": "Available",
-        "booking_date": "2023-08-29T00:00:00",
-        "booking_end_date": "2023-08-30T00:00:00",
-        "booking_nights": 1,
-        "booking_url": "https://www.recreation.gov/camping/campsites/2655",
-        "campsite_attributes": [
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 11,
-                "attribute_name": "Checkin Time",
-                "attribute_value": "12:00 PM"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 56,
-                "attribute_name": "Min Num of People",
-                "attribute_value": "1"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 9,
-                "attribute_name": "Campfire Allowed",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 12,
-                "attribute_name": "Checkout Time",
-                "attribute_value": "12:00 PM"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 65,
-                "attribute_name": "Pets Allowed",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 77,
-                "attribute_name": "Shade",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 52,
-                "attribute_name": "Max Num of People",
-                "attribute_value": "6"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 79,
-                "attribute_name": "Site Access",
-                "attribute_value": "Drive-In"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Is Equipment Mandatory",
-                "attribute_value": "true"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Tent Pad Length",
-                "attribute_value": "8"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 25,
-                "attribute_name": "Driveway Length",
-                "attribute_value": "28"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 54,
-                "attribute_name": "Max Vehicle Length",
-                "attribute_value": "25"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 53,
-                "attribute_name": "Max Num of Vehicles",
-                "attribute_value": "2"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 26,
-                "attribute_name": "Driveway Surface",
-                "attribute_value": "Gravel"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Tent Pad Width",
-                "attribute_value": "12"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 23,
-                "attribute_name": "Driveway Entry",
-                "attribute_value": "Back-In"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 301,
-                "attribute_name": "Map Y Coordinate",
-                "attribute_value": "581.371459960938"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 314,
-                "attribute_name": "Placed on Map",
-                "attribute_value": "1"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 67,
-                "attribute_name": "Picnic Table",
-                "attribute_value": "Y"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 31,
-                "attribute_name": "Fire Pit",
-                "attribute_value": "Y"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 300,
-                "attribute_name": "Map X Coordinate",
-                "attribute_value": "562.488403320313"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 91,
-                "attribute_name": "Tent Pad",
-                "attribute_value": "Y"
-            }
-        ],
-        "campsite_id": 2655,
-        "campsite_loop_name": "LOOP B",
-        "campsite_occupancy": [
-            1,
-            6
-        ],
-        "campsite_site_name": "B010",
-        "campsite_type": "STANDARD NONELECTRIC",
-        "campsite_use_type": "Overnight",
-        "facility_id": 232465,
-        "facility_name": "Ohanapecosh Campground",
-        "permitted_equipment": [
-            {
-                "equipment_name": "Tent",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "RV",
-                "max_length": 25.0
-            },
-            {
-                "equipment_name": "Trailer",
-                "max_length": 18.0
-            },
-            {
-                "equipment_name": "Pickup Camper",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "Caravan/Camper Van",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "Car",
-                "max_length": 0.0
-            }
-        ],
-        "recreation_area": "Mount Rainier National Park, WA",
-        "recreation_area_id": 2835
-    },
-    {
-        "availability_status": "Available",
-        "booking_date": "2023-08-01T00:00:00",
-        "booking_end_date": "2023-08-02T00:00:00",
-        "booking_nights": 1,
-        "booking_url": "https://www.recreation.gov/camping/campsites/2654",
-        "campsite_attributes": [
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 77,
-                "attribute_name": "Shade",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 52,
-                "attribute_name": "Max Num of People",
-                "attribute_value": "6"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 79,
-                "attribute_name": "Site Access",
-                "attribute_value": "Drive-In"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 11,
-                "attribute_name": "Checkin Time",
-                "attribute_value": "12:00 PM"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 56,
-                "attribute_name": "Min Num of People",
-                "attribute_value": "1"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 9,
-                "attribute_name": "Campfire Allowed",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 12,
-                "attribute_name": "Checkout Time",
-                "attribute_value": "12:00 PM"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 65,
-                "attribute_name": "Pets Allowed",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 54,
-                "attribute_name": "Max Vehicle Length",
-                "attribute_value": "32"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 53,
-                "attribute_name": "Max Num of Vehicles",
-                "attribute_value": "2"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 26,
-                "attribute_name": "Driveway Surface",
-                "attribute_value": "Gravel"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Tent Pad Width",
-                "attribute_value": "10"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 23,
-                "attribute_name": "Driveway Entry",
-                "attribute_value": "Back-In"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Is Equipment Mandatory",
-                "attribute_value": "true"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Tent Pad Length",
-                "attribute_value": "10"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 25,
-                "attribute_name": "Driveway Length",
-                "attribute_value": "36"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 31,
-                "attribute_name": "Fire Pit",
-                "attribute_value": "Y"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 91,
-                "attribute_name": "Tent Pad",
-                "attribute_value": "Y"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 67,
-                "attribute_name": "Picnic Table",
-                "attribute_value": "Y"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 300,
-                "attribute_name": "Map X Coordinate",
-                "attribute_value": "577.459045410156"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 314,
-                "attribute_name": "Placed on Map",
-                "attribute_value": "1"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 301,
-                "attribute_name": "Map Y Coordinate",
-                "attribute_value": "589.896423339844"
-            }
-        ],
-        "campsite_id": 2654,
-        "campsite_loop_name": "LOOP B",
-        "campsite_occupancy": [
-            1,
-            6
-        ],
-        "campsite_site_name": "B009",
-        "campsite_type": "STANDARD NONELECTRIC",
-        "campsite_use_type": "Overnight",
-        "facility_id": 232465,
-        "facility_name": "Ohanapecosh Campground",
-        "permitted_equipment": [
-            {
-                "equipment_name": "Tent",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "RV",
-                "max_length": 32.0
-            },
-            {
-                "equipment_name": "Trailer",
-                "max_length": 27.0
-            },
-            {
-                "equipment_name": "Pickup Camper",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "Caravan/Camper Van",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "Car",
-                "max_length": 0.0
-            }
-        ],
-        "recreation_area": "Mount Rainier National Park, WA",
-        "recreation_area_id": 2835
-    },
-    {
-        "availability_status": "Available",
-        "booking_date": "2023-07-29T00:00:00",
-        "booking_end_date": "2023-07-30T00:00:00",
-        "booking_nights": 1,
-        "booking_url": "https://www.recreation.gov/camping/campsites/2654",
-        "campsite_attributes": [
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 12,
-                "attribute_name": "Checkout Time",
-                "attribute_value": "12:00 PM"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 65,
-                "attribute_name": "Pets Allowed",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 77,
-                "attribute_name": "Shade",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 52,
-                "attribute_name": "Max Num of People",
-                "attribute_value": "6"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 79,
-                "attribute_name": "Site Access",
-                "attribute_value": "Drive-In"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 11,
-                "attribute_name": "Checkin Time",
-                "attribute_value": "12:00 PM"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 56,
-                "attribute_name": "Min Num of People",
-                "attribute_value": "1"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 9,
-                "attribute_name": "Campfire Allowed",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Tent Pad Width",
-                "attribute_value": "10"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 23,
-                "attribute_name": "Driveway Entry",
-                "attribute_value": "Back-In"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Is Equipment Mandatory",
-                "attribute_value": "true"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Tent Pad Length",
-                "attribute_value": "10"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 25,
-                "attribute_name": "Driveway Length",
-                "attribute_value": "36"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 54,
-                "attribute_name": "Max Vehicle Length",
-                "attribute_value": "32"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 53,
-                "attribute_name": "Max Num of Vehicles",
-                "attribute_value": "2"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 26,
-                "attribute_name": "Driveway Surface",
-                "attribute_value": "Gravel"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 31,
-                "attribute_name": "Fire Pit",
-                "attribute_value": "Y"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 91,
-                "attribute_name": "Tent Pad",
-                "attribute_value": "Y"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 67,
-                "attribute_name": "Picnic Table",
-                "attribute_value": "Y"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 300,
-                "attribute_name": "Map X Coordinate",
-                "attribute_value": "577.459045410156"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 314,
-                "attribute_name": "Placed on Map",
-                "attribute_value": "1"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 301,
-                "attribute_name": "Map Y Coordinate",
-                "attribute_value": "589.896423339844"
-            }
-        ],
-        "campsite_id": 2654,
-        "campsite_loop_name": "LOOP B",
-        "campsite_occupancy": [
-            1,
-            6
-        ],
-        "campsite_site_name": "B009",
-        "campsite_type": "STANDARD NONELECTRIC",
-        "campsite_use_type": "Overnight",
-        "facility_id": 232465,
-        "facility_name": "Ohanapecosh Campground",
-        "permitted_equipment": [
-            {
-                "equipment_name": "Tent",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "RV",
-                "max_length": 32.0
-            },
-            {
-                "equipment_name": "Trailer",
-                "max_length": 27.0
-            },
-            {
-                "equipment_name": "Pickup Camper",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "Caravan/Camper Van",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "Car",
-                "max_length": 0.0
-            }
-        ],
-        "recreation_area": "Mount Rainier National Park, WA",
-        "recreation_area_id": 2835
-    },
-    {
-        "availability_status": "Available",
-        "booking_date": "2023-07-30T00:00:00",
-        "booking_end_date": "2023-07-31T00:00:00",
-        "booking_nights": 1,
-        "booking_url": "https://www.recreation.gov/camping/campsites/2654",
-        "campsite_attributes": [
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 12,
-                "attribute_name": "Checkout Time",
-                "attribute_value": "12:00 PM"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 65,
-                "attribute_name": "Pets Allowed",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 77,
-                "attribute_name": "Shade",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 52,
-                "attribute_name": "Max Num of People",
-                "attribute_value": "6"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 79,
-                "attribute_name": "Site Access",
-                "attribute_value": "Drive-In"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 11,
-                "attribute_name": "Checkin Time",
-                "attribute_value": "12:00 PM"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 56,
-                "attribute_name": "Min Num of People",
-                "attribute_value": "1"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 9,
-                "attribute_name": "Campfire Allowed",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 54,
-                "attribute_name": "Max Vehicle Length",
-                "attribute_value": "32"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 53,
-                "attribute_name": "Max Num of Vehicles",
-                "attribute_value": "2"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 26,
-                "attribute_name": "Driveway Surface",
-                "attribute_value": "Gravel"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Tent Pad Width",
-                "attribute_value": "10"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 23,
-                "attribute_name": "Driveway Entry",
-                "attribute_value": "Back-In"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Is Equipment Mandatory",
-                "attribute_value": "true"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Tent Pad Length",
-                "attribute_value": "10"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 25,
-                "attribute_name": "Driveway Length",
-                "attribute_value": "36"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 31,
-                "attribute_name": "Fire Pit",
-                "attribute_value": "Y"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 91,
-                "attribute_name": "Tent Pad",
-                "attribute_value": "Y"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 67,
-                "attribute_name": "Picnic Table",
-                "attribute_value": "Y"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 300,
-                "attribute_name": "Map X Coordinate",
-                "attribute_value": "577.459045410156"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 314,
-                "attribute_name": "Placed on Map",
-                "attribute_value": "1"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 301,
-                "attribute_name": "Map Y Coordinate",
-                "attribute_value": "589.896423339844"
-            }
-        ],
-        "campsite_id": 2654,
-        "campsite_loop_name": "LOOP B",
-        "campsite_occupancy": [
-            1,
-            6
-        ],
-        "campsite_site_name": "B009",
-        "campsite_type": "STANDARD NONELECTRIC",
-        "campsite_use_type": "Overnight",
-        "facility_id": 232465,
-        "facility_name": "Ohanapecosh Campground",
-        "permitted_equipment": [
-            {
-                "equipment_name": "Tent",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "RV",
-                "max_length": 32.0
-            },
-            {
-                "equipment_name": "Trailer",
-                "max_length": 27.0
-            },
-            {
-                "equipment_name": "Pickup Camper",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "Caravan/Camper Van",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "Car",
-                "max_length": 0.0
-            }
-        ],
-        "recreation_area": "Mount Rainier National Park, WA",
-        "recreation_area_id": 2835
-    },
-    {
-        "availability_status": "Available",
-        "booking_date": "2023-07-23T00:00:00",
-        "booking_end_date": "2023-07-24T00:00:00",
-        "booking_nights": 1,
-        "booking_url": "https://www.recreation.gov/camping/campsites/2655",
-        "campsite_attributes": [
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 11,
-                "attribute_name": "Checkin Time",
-                "attribute_value": "12:00 PM"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 56,
-                "attribute_name": "Min Num of People",
-                "attribute_value": "1"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 9,
-                "attribute_name": "Campfire Allowed",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 12,
-                "attribute_name": "Checkout Time",
-                "attribute_value": "12:00 PM"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 65,
-                "attribute_name": "Pets Allowed",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 77,
-                "attribute_name": "Shade",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 52,
-                "attribute_name": "Max Num of People",
-                "attribute_value": "6"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 79,
-                "attribute_name": "Site Access",
-                "attribute_value": "Drive-In"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Tent Pad Width",
-                "attribute_value": "12"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 23,
-                "attribute_name": "Driveway Entry",
-                "attribute_value": "Back-In"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Is Equipment Mandatory",
-                "attribute_value": "true"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Tent Pad Length",
-                "attribute_value": "8"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 25,
-                "attribute_name": "Driveway Length",
-                "attribute_value": "28"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 54,
-                "attribute_name": "Max Vehicle Length",
-                "attribute_value": "25"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 53,
-                "attribute_name": "Max Num of Vehicles",
-                "attribute_value": "2"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 26,
-                "attribute_name": "Driveway Surface",
-                "attribute_value": "Gravel"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 301,
-                "attribute_name": "Map Y Coordinate",
-                "attribute_value": "581.371459960938"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 314,
-                "attribute_name": "Placed on Map",
-                "attribute_value": "1"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 67,
-                "attribute_name": "Picnic Table",
-                "attribute_value": "Y"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 31,
-                "attribute_name": "Fire Pit",
-                "attribute_value": "Y"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 300,
-                "attribute_name": "Map X Coordinate",
-                "attribute_value": "562.488403320313"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 91,
-                "attribute_name": "Tent Pad",
-                "attribute_value": "Y"
-            }
-        ],
-        "campsite_id": 2655,
-        "campsite_loop_name": "LOOP B",
-        "campsite_occupancy": [
-            1,
-            6
-        ],
-        "campsite_site_name": "B010",
-        "campsite_type": "STANDARD NONELECTRIC",
-        "campsite_use_type": "Overnight",
-        "facility_id": 232465,
-        "facility_name": "Ohanapecosh Campground",
-        "permitted_equipment": [
-            {
-                "equipment_name": "Tent",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "RV",
-                "max_length": 25.0
-            },
-            {
-                "equipment_name": "Trailer",
-                "max_length": 18.0
-            },
-            {
-                "equipment_name": "Pickup Camper",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "Caravan/Camper Van",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "Car",
-                "max_length": 0.0
-            }
-        ],
-        "recreation_area": "Mount Rainier National Park, WA",
-        "recreation_area_id": 2835
-    },
-    {
-        "availability_status": "Available",
         "booking_date": "2023-08-31T00:00:00",
         "booking_end_date": "2023-09-01T00:00:00",
-        "booking_nights": 1,
-        "booking_url": "https://www.recreation.gov/camping/campsites/2655",
-        "campsite_attributes": [
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 11,
-                "attribute_name": "Checkin Time",
-                "attribute_value": "12:00 PM"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 56,
-                "attribute_name": "Min Num of People",
-                "attribute_value": "1"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 9,
-                "attribute_name": "Campfire Allowed",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 12,
-                "attribute_name": "Checkout Time",
-                "attribute_value": "12:00 PM"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 65,
-                "attribute_name": "Pets Allowed",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 77,
-                "attribute_name": "Shade",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 52,
-                "attribute_name": "Max Num of People",
-                "attribute_value": "6"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 79,
-                "attribute_name": "Site Access",
-                "attribute_value": "Drive-In"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Is Equipment Mandatory",
-                "attribute_value": "true"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Tent Pad Length",
-                "attribute_value": "8"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 25,
-                "attribute_name": "Driveway Length",
-                "attribute_value": "28"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 54,
-                "attribute_name": "Max Vehicle Length",
-                "attribute_value": "25"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 53,
-                "attribute_name": "Max Num of Vehicles",
-                "attribute_value": "2"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 26,
-                "attribute_name": "Driveway Surface",
-                "attribute_value": "Gravel"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Tent Pad Width",
-                "attribute_value": "12"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 23,
-                "attribute_name": "Driveway Entry",
-                "attribute_value": "Back-In"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 301,
-                "attribute_name": "Map Y Coordinate",
-                "attribute_value": "581.371459960938"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 314,
-                "attribute_name": "Placed on Map",
-                "attribute_value": "1"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 67,
-                "attribute_name": "Picnic Table",
-                "attribute_value": "Y"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 31,
-                "attribute_name": "Fire Pit",
-                "attribute_value": "Y"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 300,
-                "attribute_name": "Map X Coordinate",
-                "attribute_value": "562.488403320313"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 91,
-                "attribute_name": "Tent Pad",
-                "attribute_value": "Y"
-            }
-        ],
-        "campsite_id": 2655,
-        "campsite_loop_name": "LOOP B",
-        "campsite_occupancy": [
-            1,
-            6
-        ],
-        "campsite_site_name": "B010",
-        "campsite_type": "STANDARD NONELECTRIC",
-        "campsite_use_type": "Overnight",
-        "facility_id": 232465,
-        "facility_name": "Ohanapecosh Campground",
-        "permitted_equipment": [
-            {
-                "equipment_name": "Tent",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "RV",
-                "max_length": 25.0
-            },
-            {
-                "equipment_name": "Trailer",
-                "max_length": 18.0
-            },
-            {
-                "equipment_name": "Pickup Camper",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "Caravan/Camper Van",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "Car",
-                "max_length": 0.0
-            }
-        ],
-        "recreation_area": "Mount Rainier National Park, WA",
-        "recreation_area_id": 2835
-    },
-    {
-        "availability_status": "Available",
-        "booking_date": "2023-08-14T00:00:00",
-        "booking_end_date": "2023-08-15T00:00:00",
-        "booking_nights": 1,
-        "booking_url": "https://www.recreation.gov/camping/campsites/2654",
-        "campsite_attributes": [
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 12,
-                "attribute_name": "Checkout Time",
-                "attribute_value": "12:00 PM"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 65,
-                "attribute_name": "Pets Allowed",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 77,
-                "attribute_name": "Shade",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 52,
-                "attribute_name": "Max Num of People",
-                "attribute_value": "6"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 79,
-                "attribute_name": "Site Access",
-                "attribute_value": "Drive-In"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 11,
-                "attribute_name": "Checkin Time",
-                "attribute_value": "12:00 PM"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 56,
-                "attribute_name": "Min Num of People",
-                "attribute_value": "1"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 9,
-                "attribute_name": "Campfire Allowed",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 26,
-                "attribute_name": "Driveway Surface",
-                "attribute_value": "Gravel"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Tent Pad Width",
-                "attribute_value": "10"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 23,
-                "attribute_name": "Driveway Entry",
-                "attribute_value": "Back-In"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Is Equipment Mandatory",
-                "attribute_value": "true"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Tent Pad Length",
-                "attribute_value": "10"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 25,
-                "attribute_name": "Driveway Length",
-                "attribute_value": "36"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 54,
-                "attribute_name": "Max Vehicle Length",
-                "attribute_value": "32"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 53,
-                "attribute_name": "Max Num of Vehicles",
-                "attribute_value": "2"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 31,
-                "attribute_name": "Fire Pit",
-                "attribute_value": "Y"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 91,
-                "attribute_name": "Tent Pad",
-                "attribute_value": "Y"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 67,
-                "attribute_name": "Picnic Table",
-                "attribute_value": "Y"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 300,
-                "attribute_name": "Map X Coordinate",
-                "attribute_value": "577.459045410156"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 314,
-                "attribute_name": "Placed on Map",
-                "attribute_value": "1"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 301,
-                "attribute_name": "Map Y Coordinate",
-                "attribute_value": "589.896423339844"
-            }
-        ],
-        "campsite_id": 2654,
-        "campsite_loop_name": "LOOP B",
-        "campsite_occupancy": [
-            1,
-            6
-        ],
-        "campsite_site_name": "B009",
-        "campsite_type": "STANDARD NONELECTRIC",
-        "campsite_use_type": "Overnight",
-        "facility_id": 232465,
-        "facility_name": "Ohanapecosh Campground",
-        "permitted_equipment": [
-            {
-                "equipment_name": "Tent",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "RV",
-                "max_length": 32.0
-            },
-            {
-                "equipment_name": "Trailer",
-                "max_length": 27.0
-            },
-            {
-                "equipment_name": "Pickup Camper",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "Caravan/Camper Van",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "Car",
-                "max_length": 0.0
-            }
-        ],
-        "recreation_area": "Mount Rainier National Park, WA",
-        "recreation_area_id": 2835
-    },
-    {
-        "availability_status": "Available",
-        "booking_date": "2023-07-29T00:00:00",
-        "booking_end_date": "2023-07-30T00:00:00",
-        "booking_nights": 1,
-        "booking_url": "https://www.recreation.gov/camping/campsites/2655",
-        "campsite_attributes": [
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 79,
-                "attribute_name": "Site Access",
-                "attribute_value": "Drive-In"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 11,
-                "attribute_name": "Checkin Time",
-                "attribute_value": "12:00 PM"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 56,
-                "attribute_name": "Min Num of People",
-                "attribute_value": "1"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 9,
-                "attribute_name": "Campfire Allowed",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 12,
-                "attribute_name": "Checkout Time",
-                "attribute_value": "12:00 PM"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 65,
-                "attribute_name": "Pets Allowed",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 77,
-                "attribute_name": "Shade",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 52,
-                "attribute_name": "Max Num of People",
-                "attribute_value": "6"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 53,
-                "attribute_name": "Max Num of Vehicles",
-                "attribute_value": "2"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 26,
-                "attribute_name": "Driveway Surface",
-                "attribute_value": "Gravel"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Tent Pad Width",
-                "attribute_value": "12"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 23,
-                "attribute_name": "Driveway Entry",
-                "attribute_value": "Back-In"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Is Equipment Mandatory",
-                "attribute_value": "true"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Tent Pad Length",
-                "attribute_value": "8"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 25,
-                "attribute_name": "Driveway Length",
-                "attribute_value": "28"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 54,
-                "attribute_name": "Max Vehicle Length",
-                "attribute_value": "25"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 301,
-                "attribute_name": "Map Y Coordinate",
-                "attribute_value": "581.371459960938"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 314,
-                "attribute_name": "Placed on Map",
-                "attribute_value": "1"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 67,
-                "attribute_name": "Picnic Table",
-                "attribute_value": "Y"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 31,
-                "attribute_name": "Fire Pit",
-                "attribute_value": "Y"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 300,
-                "attribute_name": "Map X Coordinate",
-                "attribute_value": "562.488403320313"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 91,
-                "attribute_name": "Tent Pad",
-                "attribute_value": "Y"
-            }
-        ],
-        "campsite_id": 2655,
-        "campsite_loop_name": "LOOP B",
-        "campsite_occupancy": [
-            1,
-            6
-        ],
-        "campsite_site_name": "B010",
-        "campsite_type": "STANDARD NONELECTRIC",
-        "campsite_use_type": "Overnight",
-        "facility_id": 232465,
-        "facility_name": "Ohanapecosh Campground",
-        "permitted_equipment": [
-            {
-                "equipment_name": "Tent",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "RV",
-                "max_length": 25.0
-            },
-            {
-                "equipment_name": "Trailer",
-                "max_length": 18.0
-            },
-            {
-                "equipment_name": "Pickup Camper",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "Caravan/Camper Van",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "Car",
-                "max_length": 0.0
-            }
-        ],
-        "recreation_area": "Mount Rainier National Park, WA",
-        "recreation_area_id": 2835
-    },
-    {
-        "availability_status": "Available",
-        "booking_date": "2023-08-14T00:00:00",
-        "booking_end_date": "2023-08-15T00:00:00",
-        "booking_nights": 1,
-        "booking_url": "https://www.recreation.gov/camping/campsites/2655",
-        "campsite_attributes": [
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 12,
-                "attribute_name": "Checkout Time",
-                "attribute_value": "12:00 PM"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 65,
-                "attribute_name": "Pets Allowed",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 77,
-                "attribute_name": "Shade",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 52,
-                "attribute_name": "Max Num of People",
-                "attribute_value": "6"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 79,
-                "attribute_name": "Site Access",
-                "attribute_value": "Drive-In"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 11,
-                "attribute_name": "Checkin Time",
-                "attribute_value": "12:00 PM"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 56,
-                "attribute_name": "Min Num of People",
-                "attribute_value": "1"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 9,
-                "attribute_name": "Campfire Allowed",
-                "attribute_value": "Yes"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Tent Pad Width",
-                "attribute_value": "12"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 23,
-                "attribute_name": "Driveway Entry",
-                "attribute_value": "Back-In"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Is Equipment Mandatory",
-                "attribute_value": "true"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 0,
-                "attribute_name": "Tent Pad Length",
-                "attribute_value": "8"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 25,
-                "attribute_name": "Driveway Length",
-                "attribute_value": "28"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 54,
-                "attribute_name": "Max Vehicle Length",
-                "attribute_value": "25"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 53,
-                "attribute_name": "Max Num of Vehicles",
-                "attribute_value": "2"
-            },
-            {
-                "attribute_category": "equipment_details",
-                "attribute_id": 26,
-                "attribute_name": "Driveway Surface",
-                "attribute_value": "Gravel"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 301,
-                "attribute_name": "Map Y Coordinate",
-                "attribute_value": "581.371459960938"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 314,
-                "attribute_name": "Placed on Map",
-                "attribute_value": "1"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 67,
-                "attribute_name": "Picnic Table",
-                "attribute_value": "Y"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 31,
-                "attribute_name": "Fire Pit",
-                "attribute_value": "Y"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 300,
-                "attribute_name": "Map X Coordinate",
-                "attribute_value": "562.488403320313"
-            },
-            {
-                "attribute_category": "amenities",
-                "attribute_id": 91,
-                "attribute_name": "Tent Pad",
-                "attribute_value": "Y"
-            }
-        ],
-        "campsite_id": 2655,
-        "campsite_loop_name": "LOOP B",
-        "campsite_occupancy": [
-            1,
-            6
-        ],
-        "campsite_site_name": "B010",
-        "campsite_type": "STANDARD NONELECTRIC",
-        "campsite_use_type": "Overnight",
-        "facility_id": 232465,
-        "facility_name": "Ohanapecosh Campground",
-        "permitted_equipment": [
-            {
-                "equipment_name": "Tent",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "RV",
-                "max_length": 25.0
-            },
-            {
-                "equipment_name": "Trailer",
-                "max_length": 18.0
-            },
-            {
-                "equipment_name": "Pickup Camper",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "Caravan/Camper Van",
-                "max_length": 0.0
-            },
-            {
-                "equipment_name": "Car",
-                "max_length": 0.0
-            }
-        ],
-        "recreation_area": "Mount Rainier National Park, WA",
-        "recreation_area_id": 2835
-    },
-    {
-        "availability_status": "Available",
-        "booking_date": "2023-08-28T00:00:00",
-        "booking_end_date": "2023-08-29T00:00:00",
         "booking_nights": 1,
         "booking_url": "https://www.recreation.gov/camping/campsites/2655",
         "campsite_attributes": [
@@ -4501,8 +4681,8 @@
     },
     {
         "availability_status": "Available",
-        "booking_date": "2023-07-30T00:00:00",
-        "booking_end_date": "2023-07-31T00:00:00",
+        "booking_date": "2023-07-28T00:00:00",
+        "booking_end_date": "2023-07-29T00:00:00",
         "booking_nights": 1,
         "booking_url": "https://www.recreation.gov/camping/campsites/2655",
         "campsite_attributes": [
@@ -4681,11 +4861,23 @@
     },
     {
         "availability_status": "Available",
-        "booking_date": "2023-08-02T00:00:00",
-        "booking_end_date": "2023-08-03T00:00:00",
+        "booking_date": "2023-07-30T00:00:00",
+        "booking_end_date": "2023-07-31T00:00:00",
         "booking_nights": 1,
-        "booking_url": "https://www.recreation.gov/camping/campsites/2655",
+        "booking_url": "https://www.recreation.gov/camping/campsites/2654",
         "campsite_attributes": [
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 12,
+                "attribute_name": "Checkout Time",
+                "attribute_value": "12:00 PM"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 65,
+                "attribute_name": "Pets Allowed",
+                "attribute_value": "Yes"
+            },
             {
                 "attribute_category": "site_details",
                 "attribute_id": 77,
@@ -4723,16 +4915,10 @@
                 "attribute_value": "Yes"
             },
             {
-                "attribute_category": "site_details",
-                "attribute_id": 12,
-                "attribute_name": "Checkout Time",
-                "attribute_value": "12:00 PM"
-            },
-            {
-                "attribute_category": "site_details",
-                "attribute_id": 65,
-                "attribute_name": "Pets Allowed",
-                "attribute_value": "Yes"
+                "attribute_category": "equipment_details",
+                "attribute_id": 54,
+                "attribute_name": "Max Vehicle Length",
+                "attribute_value": "32"
             },
             {
                 "attribute_category": "equipment_details",
@@ -4745,6 +4931,168 @@
                 "attribute_id": 26,
                 "attribute_name": "Driveway Surface",
                 "attribute_value": "Gravel"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Tent Pad Width",
+                "attribute_value": "10"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 23,
+                "attribute_name": "Driveway Entry",
+                "attribute_value": "Back-In"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Is Equipment Mandatory",
+                "attribute_value": "true"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 0,
+                "attribute_name": "Tent Pad Length",
+                "attribute_value": "10"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 25,
+                "attribute_name": "Driveway Length",
+                "attribute_value": "36"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 31,
+                "attribute_name": "Fire Pit",
+                "attribute_value": "Y"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 91,
+                "attribute_name": "Tent Pad",
+                "attribute_value": "Y"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 67,
+                "attribute_name": "Picnic Table",
+                "attribute_value": "Y"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 300,
+                "attribute_name": "Map X Coordinate",
+                "attribute_value": "577.459045410156"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 314,
+                "attribute_name": "Placed on Map",
+                "attribute_value": "1"
+            },
+            {
+                "attribute_category": "amenities",
+                "attribute_id": 301,
+                "attribute_name": "Map Y Coordinate",
+                "attribute_value": "589.896423339844"
+            }
+        ],
+        "campsite_id": 2654,
+        "campsite_loop_name": "LOOP B",
+        "campsite_occupancy": [
+            1,
+            6
+        ],
+        "campsite_site_name": "B009",
+        "campsite_type": "STANDARD NONELECTRIC",
+        "campsite_use_type": "Overnight",
+        "facility_id": 232465,
+        "facility_name": "Ohanapecosh Campground",
+        "permitted_equipment": [
+            {
+                "equipment_name": "Tent",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "RV",
+                "max_length": 32.0
+            },
+            {
+                "equipment_name": "Trailer",
+                "max_length": 27.0
+            },
+            {
+                "equipment_name": "Pickup Camper",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "Caravan/Camper Van",
+                "max_length": 0.0
+            },
+            {
+                "equipment_name": "Car",
+                "max_length": 0.0
+            }
+        ],
+        "recreation_area": "Mount Rainier National Park, WA",
+        "recreation_area_id": 2835
+    },
+    {
+        "availability_status": "Available",
+        "booking_date": "2023-07-23T00:00:00",
+        "booking_end_date": "2023-07-24T00:00:00",
+        "booking_nights": 1,
+        "booking_url": "https://www.recreation.gov/camping/campsites/2655",
+        "campsite_attributes": [
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 11,
+                "attribute_name": "Checkin Time",
+                "attribute_value": "12:00 PM"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 56,
+                "attribute_name": "Min Num of People",
+                "attribute_value": "1"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 9,
+                "attribute_name": "Campfire Allowed",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 12,
+                "attribute_name": "Checkout Time",
+                "attribute_value": "12:00 PM"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 65,
+                "attribute_name": "Pets Allowed",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 77,
+                "attribute_name": "Shade",
+                "attribute_value": "Yes"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 52,
+                "attribute_name": "Max Num of People",
+                "attribute_value": "6"
+            },
+            {
+                "attribute_category": "site_details",
+                "attribute_id": 79,
+                "attribute_name": "Site Access",
+                "attribute_value": "Drive-In"
             },
             {
                 "attribute_category": "equipment_details",
@@ -4781,6 +5129,18 @@
                 "attribute_id": 54,
                 "attribute_name": "Max Vehicle Length",
                 "attribute_value": "25"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 53,
+                "attribute_name": "Max Num of Vehicles",
+                "attribute_value": "2"
+            },
+            {
+                "attribute_category": "equipment_details",
+                "attribute_id": 26,
+                "attribute_name": "Driveway Surface",
+                "attribute_value": "Gravel"
             },
             {
                 "attribute_category": "amenities",
