@@ -1,2 +1,2 @@
 camply @ git+https://github.com/ajvpot/camply@13a2e75b5a3a1dab20f85c167cf6deae95fee939
-twilio==8.5.0
+twilio==8.7.0
