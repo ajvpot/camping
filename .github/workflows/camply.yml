@@ -15,10 +15,10 @@ jobs:
       updated: ${{ steps.commit.outputs.updated }}
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Checkout results
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           ref: results
           path: results
